@@ -1,0 +1,1081 @@
+control_id,initiative_id,control_name,required,status,evidence_date
+AI-001-C1,AI-001,Use-case inventory,Yes,Pass,2025-01-05
+AI-001-C2,AI-001,Data lineage review,Yes,Gap,2025-02-05
+AI-001-C3,AI-001,Privacy assessment,Yes,Pass,2025-03-08
+AI-001-C4,AI-001,Security review,Yes,Pass,2025-04-08
+AI-001-C5,AI-001,Human oversight,Yes,Gap,2025-05-09
+AI-001-C6,AI-001,Model monitoring,Yes,Pass,2025-06-09
+AI-002-C1,AI-002,Use-case inventory,Yes,Pass,2025-01-09
+AI-002-C2,AI-002,Data lineage review,Yes,Pass,2025-02-09
+AI-002-C3,AI-002,Privacy assessment,Yes,Pass,2025-03-12
+AI-002-C4,AI-002,Security review,Yes,Pass,2025-04-12
+AI-002-C5,AI-002,Human oversight,Yes,Pass,2025-05-13
+AI-002-C6,AI-002,Model monitoring,Yes,Gap,2025-06-13
+AI-003-C1,AI-003,Use-case inventory,Yes,Pass,2025-01-13
+AI-003-C2,AI-003,Data lineage review,Yes,Pass,2025-02-13
+AI-003-C3,AI-003,Privacy assessment,Yes,Pass,2025-03-16
+AI-003-C4,AI-003,Security review,Yes,Pass,2025-04-16
+AI-003-C5,AI-003,Human oversight,Yes,Pass,2025-05-17
+AI-003-C6,AI-003,Model monitoring,Yes,Pass,2025-06-17
+AI-004-C1,AI-004,Use-case inventory,Yes,Pass,2025-01-17
+AI-004-C2,AI-004,Data lineage review,Yes,Pass,2025-02-17
+AI-004-C3,AI-004,Privacy assessment,Yes,Pass,2025-03-20
+AI-004-C4,AI-004,Security review,Yes,Pass,2025-04-20
+AI-004-C5,AI-004,Human oversight,Yes,Pass,2025-05-21
+AI-004-C6,AI-004,Model monitoring,Yes,Pass,2025-06-21
+AI-005-C1,AI-005,Use-case inventory,Yes,Gap,2025-01-21
+AI-005-C2,AI-005,Data lineage review,Yes,Pass,2025-02-21
+AI-005-C3,AI-005,Privacy assessment,Yes,Pass,2025-03-24
+AI-005-C4,AI-005,Security review,Yes,Gap,2025-04-24
+AI-005-C5,AI-005,Human oversight,Yes,Pass,2025-05-25
+AI-005-C6,AI-005,Model monitoring,Yes,Pass,2025-06-25
+AI-006-C1,AI-006,Use-case inventory,Yes,Pass,2025-01-25
+AI-006-C2,AI-006,Data lineage review,Yes,Pass,2025-02-25
+AI-006-C3,AI-006,Privacy assessment,Yes,Pass,2025-03-28
+AI-006-C4,AI-006,Security review,Yes,Pass,2025-04-28
+AI-006-C5,AI-006,Human oversight,Yes,Gap,2025-05-29
+AI-006-C6,AI-006,Model monitoring,Yes,Pass,2025-06-29
+AI-007-C1,AI-007,Use-case inventory,Yes,Pass,2025-01-29
+AI-007-C2,AI-007,Data lineage review,Yes,Pass,2025-03-01
+AI-007-C3,AI-007,Privacy assessment,Yes,Pass,2025-04-01
+AI-007-C4,AI-007,Security review,Yes,Pass,2025-05-02
+AI-007-C5,AI-007,Human oversight,Yes,Pass,2025-06-02
+AI-007-C6,AI-007,Model monitoring,Yes,Pass,2025-07-03
+AI-008-C1,AI-008,Use-case inventory,Yes,Pass,2025-02-02
+AI-008-C2,AI-008,Data lineage review,Yes,Pass,2025-03-05
+AI-008-C3,AI-008,Privacy assessment,Yes,Pass,2025-04-05
+AI-008-C4,AI-008,Security review,Yes,Pass,2025-05-06
+AI-008-C5,AI-008,Human oversight,Yes,Pass,2025-06-06
+AI-008-C6,AI-008,Model monitoring,Yes,Pass,2025-07-07
+AI-009-C1,AI-009,Use-case inventory,Yes,Pass,2025-02-06
+AI-009-C2,AI-009,Data lineage review,Yes,Pass,2025-03-09
+AI-009-C3,AI-009,Privacy assessment,Yes,Gap,2025-04-09
+AI-009-C4,AI-009,Security review,Yes,Pass,2025-05-10
+AI-009-C5,AI-009,Human oversight,Yes,Pass,2025-06-10
+AI-009-C6,AI-009,Model monitoring,Yes,Pass,2025-07-11
+AI-010-C1,AI-010,Use-case inventory,Yes,Pass,2025-02-10
+AI-010-C2,AI-010,Data lineage review,Yes,Pass,2025-03-13
+AI-010-C3,AI-010,Privacy assessment,Yes,Pass,2025-04-13
+AI-010-C4,AI-010,Security review,Yes,Gap,2025-05-14
+AI-010-C5,AI-010,Human oversight,Yes,Pass,2025-06-14
+AI-010-C6,AI-010,Model monitoring,Yes,Pass,2025-07-15
+AI-011-C1,AI-011,Use-case inventory,Yes,Pass,2025-02-14
+AI-011-C2,AI-011,Data lineage review,Yes,Pass,2025-03-17
+AI-011-C3,AI-011,Privacy assessment,Yes,Pass,2025-04-17
+AI-011-C4,AI-011,Security review,Yes,Pass,2025-05-18
+AI-011-C5,AI-011,Human oversight,Yes,Pass,2025-06-18
+AI-011-C6,AI-011,Model monitoring,Yes,Pass,2025-07-19
+AI-012-C1,AI-012,Use-case inventory,Yes,Pass,2025-02-18
+AI-012-C2,AI-012,Data lineage review,Yes,Pass,2025-03-21
+AI-012-C3,AI-012,Privacy assessment,Yes,Pass,2025-04-21
+AI-012-C4,AI-012,Security review,Yes,Pass,2025-05-22
+AI-012-C5,AI-012,Human oversight,Yes,Pass,2025-06-22
+AI-012-C6,AI-012,Model monitoring,Yes,Pass,2025-07-23
+AI-013-C1,AI-013,Use-case inventory,Yes,Pass,2025-02-22
+AI-013-C2,AI-013,Data lineage review,Yes,Gap,2025-03-25
+AI-013-C3,AI-013,Privacy assessment,Yes,Pass,2025-04-25
+AI-013-C4,AI-013,Security review,Yes,Pass,2025-05-26
+AI-013-C5,AI-013,Human oversight,Yes,Pass,2025-06-26
+AI-013-C6,AI-013,Model monitoring,Yes,Pass,2025-07-27
+AI-014-C1,AI-014,Use-case inventory,Yes,Pass,2025-02-26
+AI-014-C2,AI-014,Data lineage review,Yes,Pass,2025-03-29
+AI-014-C3,AI-014,Privacy assessment,Yes,Gap,2025-04-29
+AI-014-C4,AI-014,Security review,Yes,Pass,2025-05-30
+AI-014-C5,AI-014,Human oversight,Yes,Pass,2025-06-30
+AI-014-C6,AI-014,Model monitoring,Yes,Gap,2025-07-31
+AI-015-C1,AI-015,Use-case inventory,Yes,Pass,2025-03-02
+AI-015-C2,AI-015,Data lineage review,Yes,Pass,2025-04-02
+AI-015-C3,AI-015,Privacy assessment,Yes,Pass,2025-05-03
+AI-015-C4,AI-015,Security review,Yes,Pass,2025-06-03
+AI-015-C5,AI-015,Human oversight,Yes,Pass,2025-07-04
+AI-015-C6,AI-015,Model monitoring,Yes,Pass,2025-08-04
+AI-016-C1,AI-016,Use-case inventory,Yes,Pass,2025-03-06
+AI-016-C2,AI-016,Data lineage review,Yes,Pass,2025-04-06
+AI-016-C3,AI-016,Privacy assessment,Yes,Pass,2025-05-07
+AI-016-C4,AI-016,Security review,Yes,Pass,2025-06-07
+AI-016-C5,AI-016,Human oversight,Yes,Pass,2025-07-08
+AI-016-C6,AI-016,Model monitoring,Yes,Pass,2025-08-08
+AI-017-C1,AI-017,Use-case inventory,Yes,Gap,2025-03-10
+AI-017-C2,AI-017,Data lineage review,Yes,Pass,2025-04-10
+AI-017-C3,AI-017,Privacy assessment,Yes,Pass,2025-05-11
+AI-017-C4,AI-017,Security review,Yes,Pass,2025-06-11
+AI-017-C5,AI-017,Human oversight,Yes,Pass,2025-07-12
+AI-017-C6,AI-017,Model monitoring,Yes,Pass,2025-08-12
+AI-018-C1,AI-018,Use-case inventory,Yes,Pass,2025-03-14
+AI-018-C2,AI-018,Data lineage review,Yes,Gap,2025-04-14
+AI-018-C3,AI-018,Privacy assessment,Yes,Pass,2025-05-15
+AI-018-C4,AI-018,Security review,Yes,Pass,2025-06-15
+AI-018-C5,AI-018,Human oversight,Yes,Gap,2025-07-16
+AI-018-C6,AI-018,Model monitoring,Yes,Pass,2025-08-16
+AI-019-C1,AI-019,Use-case inventory,Yes,Pass,2025-03-18
+AI-019-C2,AI-019,Data lineage review,Yes,Pass,2025-04-18
+AI-019-C3,AI-019,Privacy assessment,Yes,Pass,2025-05-19
+AI-019-C4,AI-019,Security review,Yes,Pass,2025-06-19
+AI-019-C5,AI-019,Human oversight,Yes,Pass,2025-07-20
+AI-019-C6,AI-019,Model monitoring,Yes,Gap,2025-08-20
+AI-020-C1,AI-020,Use-case inventory,Yes,Pass,2025-03-22
+AI-020-C2,AI-020,Data lineage review,Yes,Pass,2025-04-22
+AI-020-C3,AI-020,Privacy assessment,Yes,Pass,2025-05-23
+AI-020-C4,AI-020,Security review,Yes,Pass,2025-06-23
+AI-020-C5,AI-020,Human oversight,Yes,Pass,2025-07-24
+AI-020-C6,AI-020,Model monitoring,Yes,Pass,2025-08-24
+AI-021-C1,AI-021,Use-case inventory,Yes,Pass,2025-03-26
+AI-021-C2,AI-021,Data lineage review,Yes,Pass,2025-04-26
+AI-021-C3,AI-021,Privacy assessment,Yes,Pass,2025-05-27
+AI-021-C4,AI-021,Security review,Yes,Pass,2025-06-27
+AI-021-C5,AI-021,Human oversight,Yes,Pass,2025-07-28
+AI-021-C6,AI-021,Model monitoring,Yes,Pass,2025-08-28
+AI-022-C1,AI-022,Use-case inventory,Yes,Gap,2025-03-30
+AI-022-C2,AI-022,Data lineage review,Yes,Pass,2025-04-30
+AI-022-C3,AI-022,Privacy assessment,Yes,Pass,2025-05-31
+AI-022-C4,AI-022,Security review,Yes,Gap,2025-07-01
+AI-022-C5,AI-022,Human oversight,Yes,Pass,2025-08-01
+AI-022-C6,AI-022,Model monitoring,Yes,Pass,2025-09-01
+AI-023-C1,AI-023,Use-case inventory,Yes,Pass,2025-04-03
+AI-023-C2,AI-023,Data lineage review,Yes,Pass,2025-05-04
+AI-023-C3,AI-023,Privacy assessment,Yes,Pass,2025-06-04
+AI-023-C4,AI-023,Security review,Yes,Pass,2025-07-05
+AI-023-C5,AI-023,Human oversight,Yes,Gap,2025-08-05
+AI-023-C6,AI-023,Model monitoring,Yes,Pass,2025-09-05
+AI-024-C1,AI-024,Use-case inventory,Yes,Pass,2025-04-07
+AI-024-C2,AI-024,Data lineage review,Yes,Pass,2025-05-08
+AI-024-C3,AI-024,Privacy assessment,Yes,Pass,2025-06-08
+AI-024-C4,AI-024,Security review,Yes,Pass,2025-07-09
+AI-024-C5,AI-024,Human oversight,Yes,Pass,2025-08-09
+AI-024-C6,AI-024,Model monitoring,Yes,Pass,2025-09-09
+AI-025-C1,AI-025,Use-case inventory,Yes,Pass,2025-04-11
+AI-025-C2,AI-025,Data lineage review,Yes,Pass,2025-05-12
+AI-025-C3,AI-025,Privacy assessment,Yes,Pass,2025-06-12
+AI-025-C4,AI-025,Security review,Yes,Pass,2025-07-13
+AI-025-C5,AI-025,Human oversight,Yes,Pass,2025-08-13
+AI-025-C6,AI-025,Model monitoring,Yes,Pass,2025-09-13
+AI-026-C1,AI-026,Use-case inventory,Yes,Pass,2025-04-15
+AI-026-C2,AI-026,Data lineage review,Yes,Pass,2025-05-16
+AI-026-C3,AI-026,Privacy assessment,Yes,Gap,2025-06-16
+AI-026-C4,AI-026,Security review,Yes,Pass,2025-07-17
+AI-026-C5,AI-026,Human oversight,Yes,Pass,2025-08-17
+AI-026-C6,AI-026,Model monitoring,Yes,Pass,2025-09-17
+AI-027-C1,AI-027,Use-case inventory,Yes,Pass,2025-04-19
+AI-027-C2,AI-027,Data lineage review,Yes,Pass,2025-05-20
+AI-027-C3,AI-027,Privacy assessment,Yes,Pass,2025-06-20
+AI-027-C4,AI-027,Security review,Yes,Gap,2025-07-21
+AI-027-C5,AI-027,Human oversight,Yes,Pass,2025-08-21
+AI-027-C6,AI-027,Model monitoring,Yes,Pass,2025-09-21
+AI-028-C1,AI-028,Use-case inventory,Yes,Pass,2025-04-23
+AI-028-C2,AI-028,Data lineage review,Yes,Pass,2025-05-24
+AI-028-C3,AI-028,Privacy assessment,Yes,Pass,2025-06-24
+AI-028-C4,AI-028,Security review,Yes,Pass,2025-07-25
+AI-028-C5,AI-028,Human oversight,Yes,Pass,2025-08-25
+AI-028-C6,AI-028,Model monitoring,Yes,Pass,2025-09-25
+AI-029-C1,AI-029,Use-case inventory,Yes,Pass,2025-04-27
+AI-029-C2,AI-029,Data lineage review,Yes,Pass,2025-05-28
+AI-029-C3,AI-029,Privacy assessment,Yes,Pass,2025-06-28
+AI-029-C4,AI-029,Security review,Yes,Pass,2025-07-29
+AI-029-C5,AI-029,Human oversight,Yes,Pass,2025-08-29
+AI-029-C6,AI-029,Model monitoring,Yes,Pass,2025-09-29
+AI-030-C1,AI-030,Use-case inventory,Yes,Pass,2025-05-01
+AI-030-C2,AI-030,Data lineage review,Yes,Gap,2025-06-01
+AI-030-C3,AI-030,Privacy assessment,Yes,Pass,2025-07-02
+AI-030-C4,AI-030,Security review,Yes,Pass,2025-08-02
+AI-030-C5,AI-030,Human oversight,Yes,Pass,2025-09-02
+AI-030-C6,AI-030,Model monitoring,Yes,Pass,2025-10-03
+AI-031-C1,AI-031,Use-case inventory,Yes,Pass,2025-05-05
+AI-031-C2,AI-031,Data lineage review,Yes,Pass,2025-06-05
+AI-031-C3,AI-031,Privacy assessment,Yes,Gap,2025-07-06
+AI-031-C4,AI-031,Security review,Yes,Pass,2025-08-06
+AI-031-C5,AI-031,Human oversight,Yes,Pass,2025-09-06
+AI-031-C6,AI-031,Model monitoring,Yes,Gap,2025-10-07
+AI-032-C1,AI-032,Use-case inventory,Yes,Pass,2025-05-09
+AI-032-C2,AI-032,Data lineage review,Yes,Pass,2025-06-09
+AI-032-C3,AI-032,Privacy assessment,Yes,Pass,2025-07-10
+AI-032-C4,AI-032,Security review,Yes,Pass,2025-08-10
+AI-032-C5,AI-032,Human oversight,Yes,Pass,2025-09-10
+AI-032-C6,AI-032,Model monitoring,Yes,Pass,2025-10-11
+AI-033-C1,AI-033,Use-case inventory,Yes,Pass,2025-05-13
+AI-033-C2,AI-033,Data lineage review,Yes,Pass,2025-06-13
+AI-033-C3,AI-033,Privacy assessment,Yes,Pass,2025-07-14
+AI-033-C4,AI-033,Security review,Yes,Pass,2025-08-14
+AI-033-C5,AI-033,Human oversight,Yes,Pass,2025-09-14
+AI-033-C6,AI-033,Model monitoring,Yes,Pass,2025-10-15
+AI-034-C1,AI-034,Use-case inventory,Yes,Gap,2025-05-17
+AI-034-C2,AI-034,Data lineage review,Yes,Pass,2025-06-17
+AI-034-C3,AI-034,Privacy assessment,Yes,Pass,2025-07-18
+AI-034-C4,AI-034,Security review,Yes,Pass,2025-08-18
+AI-034-C5,AI-034,Human oversight,Yes,Pass,2025-09-18
+AI-034-C6,AI-034,Model monitoring,Yes,Pass,2025-10-19
+AI-035-C1,AI-035,Use-case inventory,Yes,Pass,2025-05-21
+AI-035-C2,AI-035,Data lineage review,Yes,Gap,2025-06-21
+AI-035-C3,AI-035,Privacy assessment,Yes,Pass,2025-07-22
+AI-035-C4,AI-035,Security review,Yes,Pass,2025-08-22
+AI-035-C5,AI-035,Human oversight,Yes,Gap,2025-09-22
+AI-035-C6,AI-035,Model monitoring,Yes,Pass,2025-10-23
+AI-036-C1,AI-036,Use-case inventory,Yes,Pass,2025-05-25
+AI-036-C2,AI-036,Data lineage review,Yes,Pass,2025-06-25
+AI-036-C3,AI-036,Privacy assessment,Yes,Pass,2025-07-26
+AI-036-C4,AI-036,Security review,Yes,Pass,2025-08-26
+AI-036-C5,AI-036,Human oversight,Yes,Pass,2025-09-26
+AI-036-C6,AI-036,Model monitoring,Yes,Gap,2025-10-27
+AI-037-C1,AI-037,Use-case inventory,Yes,Pass,2025-05-29
+AI-037-C2,AI-037,Data lineage review,Yes,Pass,2025-06-29
+AI-037-C3,AI-037,Privacy assessment,Yes,Pass,2025-07-30
+AI-037-C4,AI-037,Security review,Yes,Pass,2025-08-30
+AI-037-C5,AI-037,Human oversight,Yes,Pass,2025-09-30
+AI-037-C6,AI-037,Model monitoring,Yes,Pass,2025-10-31
+AI-038-C1,AI-038,Use-case inventory,Yes,Pass,2025-06-02
+AI-038-C2,AI-038,Data lineage review,Yes,Pass,2025-07-03
+AI-038-C3,AI-038,Privacy assessment,Yes,Pass,2025-08-03
+AI-038-C4,AI-038,Security review,Yes,Pass,2025-09-03
+AI-038-C5,AI-038,Human oversight,Yes,Pass,2025-10-04
+AI-038-C6,AI-038,Model monitoring,Yes,Pass,2025-11-04
+AI-039-C1,AI-039,Use-case inventory,Yes,Gap,2025-06-06
+AI-039-C2,AI-039,Data lineage review,Yes,Pass,2025-07-07
+AI-039-C3,AI-039,Privacy assessment,Yes,Pass,2025-08-07
+AI-039-C4,AI-039,Security review,Yes,Gap,2025-09-07
+AI-039-C5,AI-039,Human oversight,Yes,Pass,2025-10-08
+AI-039-C6,AI-039,Model monitoring,Yes,Pass,2025-11-08
+AI-040-C1,AI-040,Use-case inventory,Yes,Pass,2025-06-10
+AI-040-C2,AI-040,Data lineage review,Yes,Pass,2025-07-11
+AI-040-C3,AI-040,Privacy assessment,Yes,Pass,2025-08-11
+AI-040-C4,AI-040,Security review,Yes,Pass,2025-09-11
+AI-040-C5,AI-040,Human oversight,Yes,Gap,2025-10-12
+AI-040-C6,AI-040,Model monitoring,Yes,Pass,2025-11-12
+AI-041-C1,AI-041,Use-case inventory,Yes,Pass,2025-06-14
+AI-041-C2,AI-041,Data lineage review,Yes,Pass,2025-07-15
+AI-041-C3,AI-041,Privacy assessment,Yes,Pass,2025-08-15
+AI-041-C4,AI-041,Security review,Yes,Pass,2025-09-15
+AI-041-C5,AI-041,Human oversight,Yes,Pass,2025-10-16
+AI-041-C6,AI-041,Model monitoring,Yes,Pass,2025-11-16
+AI-042-C1,AI-042,Use-case inventory,Yes,Pass,2025-06-18
+AI-042-C2,AI-042,Data lineage review,Yes,Pass,2025-07-19
+AI-042-C3,AI-042,Privacy assessment,Yes,Pass,2025-08-19
+AI-042-C4,AI-042,Security review,Yes,Pass,2025-09-19
+AI-042-C5,AI-042,Human oversight,Yes,Pass,2025-10-20
+AI-042-C6,AI-042,Model monitoring,Yes,Pass,2025-11-20
+AI-043-C1,AI-043,Use-case inventory,Yes,Pass,2025-06-22
+AI-043-C2,AI-043,Data lineage review,Yes,Pass,2025-07-23
+AI-043-C3,AI-043,Privacy assessment,Yes,Gap,2025-08-23
+AI-043-C4,AI-043,Security review,Yes,Pass,2025-09-23
+AI-043-C5,AI-043,Human oversight,Yes,Pass,2025-10-24
+AI-043-C6,AI-043,Model monitoring,Yes,Pass,2025-11-24
+AI-044-C1,AI-044,Use-case inventory,Yes,Pass,2025-06-26
+AI-044-C2,AI-044,Data lineage review,Yes,Pass,2025-07-27
+AI-044-C3,AI-044,Privacy assessment,Yes,Pass,2025-08-27
+AI-044-C4,AI-044,Security review,Yes,Gap,2025-09-27
+AI-044-C5,AI-044,Human oversight,Yes,Pass,2025-10-28
+AI-044-C6,AI-044,Model monitoring,Yes,Pass,2025-11-28
+AI-045-C1,AI-045,Use-case inventory,Yes,Pass,2025-06-30
+AI-045-C2,AI-045,Data lineage review,Yes,Pass,2025-07-31
+AI-045-C3,AI-045,Privacy assessment,Yes,Pass,2025-08-31
+AI-045-C4,AI-045,Security review,Yes,Pass,2025-10-01
+AI-045-C5,AI-045,Human oversight,Yes,Pass,2025-11-01
+AI-045-C6,AI-045,Model monitoring,Yes,Pass,2025-12-02
+AI-046-C1,AI-046,Use-case inventory,Yes,Pass,2025-07-04
+AI-046-C2,AI-046,Data lineage review,Yes,Pass,2025-08-04
+AI-046-C3,AI-046,Privacy assessment,Yes,Pass,2025-09-04
+AI-046-C4,AI-046,Security review,Yes,Pass,2025-10-05
+AI-046-C5,AI-046,Human oversight,Yes,Pass,2025-11-05
+AI-046-C6,AI-046,Model monitoring,Yes,Pass,2025-12-06
+AI-047-C1,AI-047,Use-case inventory,Yes,Pass,2025-07-08
+AI-047-C2,AI-047,Data lineage review,Yes,Gap,2025-08-08
+AI-047-C3,AI-047,Privacy assessment,Yes,Pass,2025-09-08
+AI-047-C4,AI-047,Security review,Yes,Pass,2025-10-09
+AI-047-C5,AI-047,Human oversight,Yes,Pass,2025-11-09
+AI-047-C6,AI-047,Model monitoring,Yes,Pass,2025-12-10
+AI-048-C1,AI-048,Use-case inventory,Yes,Pass,2025-07-12
+AI-048-C2,AI-048,Data lineage review,Yes,Pass,2025-08-12
+AI-048-C3,AI-048,Privacy assessment,Yes,Gap,2025-09-12
+AI-048-C4,AI-048,Security review,Yes,Pass,2025-10-13
+AI-048-C5,AI-048,Human oversight,Yes,Pass,2025-11-13
+AI-048-C6,AI-048,Model monitoring,Yes,Gap,2025-12-14
+AI-049-C1,AI-049,Use-case inventory,Yes,Pass,2025-07-16
+AI-049-C2,AI-049,Data lineage review,Yes,Pass,2025-08-16
+AI-049-C3,AI-049,Privacy assessment,Yes,Pass,2025-09-16
+AI-049-C4,AI-049,Security review,Yes,Pass,2025-10-17
+AI-049-C5,AI-049,Human oversight,Yes,Pass,2025-11-17
+AI-049-C6,AI-049,Model monitoring,Yes,Pass,2025-12-18
+AI-050-C1,AI-050,Use-case inventory,Yes,Pass,2025-07-20
+AI-050-C2,AI-050,Data lineage review,Yes,Pass,2025-08-20
+AI-050-C3,AI-050,Privacy assessment,Yes,Pass,2025-09-20
+AI-050-C4,AI-050,Security review,Yes,Pass,2025-10-21
+AI-050-C5,AI-050,Human oversight,Yes,Pass,2025-11-21
+AI-050-C6,AI-050,Model monitoring,Yes,Pass,2025-12-22
+AI-051-C1,AI-051,Use-case inventory,Yes,Gap,2025-07-24
+AI-051-C2,AI-051,Data lineage review,Yes,Pass,2025-08-24
+AI-051-C3,AI-051,Privacy assessment,Yes,Pass,2025-09-24
+AI-051-C4,AI-051,Security review,Yes,Pass,2025-10-25
+AI-051-C5,AI-051,Human oversight,Yes,Pass,2025-11-25
+AI-051-C6,AI-051,Model monitoring,Yes,Pass,2025-12-26
+AI-052-C1,AI-052,Use-case inventory,Yes,Pass,2025-07-28
+AI-052-C2,AI-052,Data lineage review,Yes,Gap,2025-08-28
+AI-052-C3,AI-052,Privacy assessment,Yes,Pass,2025-09-28
+AI-052-C4,AI-052,Security review,Yes,Pass,2025-10-29
+AI-052-C5,AI-052,Human oversight,Yes,Gap,2025-11-29
+AI-052-C6,AI-052,Model monitoring,Yes,Pass,2025-12-30
+AI-053-C1,AI-053,Use-case inventory,Yes,Pass,2025-08-01
+AI-053-C2,AI-053,Data lineage review,Yes,Pass,2025-09-01
+AI-053-C3,AI-053,Privacy assessment,Yes,Pass,2025-10-02
+AI-053-C4,AI-053,Security review,Yes,Pass,2025-11-02
+AI-053-C5,AI-053,Human oversight,Yes,Pass,2025-12-03
+AI-053-C6,AI-053,Model monitoring,Yes,Gap,2026-01-03
+AI-054-C1,AI-054,Use-case inventory,Yes,Pass,2025-08-05
+AI-054-C2,AI-054,Data lineage review,Yes,Pass,2025-09-05
+AI-054-C3,AI-054,Privacy assessment,Yes,Pass,2025-10-06
+AI-054-C4,AI-054,Security review,Yes,Pass,2025-11-06
+AI-054-C5,AI-054,Human oversight,Yes,Pass,2025-12-07
+AI-054-C6,AI-054,Model monitoring,Yes,Pass,2026-01-07
+AI-055-C1,AI-055,Use-case inventory,Yes,Pass,2025-08-09
+AI-055-C2,AI-055,Data lineage review,Yes,Pass,2025-09-09
+AI-055-C3,AI-055,Privacy assessment,Yes,Pass,2025-10-10
+AI-055-C4,AI-055,Security review,Yes,Pass,2025-11-10
+AI-055-C5,AI-055,Human oversight,Yes,Pass,2025-12-11
+AI-055-C6,AI-055,Model monitoring,Yes,Pass,2026-01-11
+AI-056-C1,AI-056,Use-case inventory,Yes,Gap,2025-08-13
+AI-056-C2,AI-056,Data lineage review,Yes,Pass,2025-09-13
+AI-056-C3,AI-056,Privacy assessment,Yes,Pass,2025-10-14
+AI-056-C4,AI-056,Security review,Yes,Gap,2025-11-14
+AI-056-C5,AI-056,Human oversight,Yes,Pass,2025-12-15
+AI-056-C6,AI-056,Model monitoring,Yes,Pass,2026-01-15
+AI-057-C1,AI-057,Use-case inventory,Yes,Pass,2025-08-17
+AI-057-C2,AI-057,Data lineage review,Yes,Pass,2025-09-17
+AI-057-C3,AI-057,Privacy assessment,Yes,Pass,2025-10-18
+AI-057-C4,AI-057,Security review,Yes,Pass,2025-11-18
+AI-057-C5,AI-057,Human oversight,Yes,Gap,2025-12-19
+AI-057-C6,AI-057,Model monitoring,Yes,Pass,2026-01-19
+AI-058-C1,AI-058,Use-case inventory,Yes,Pass,2025-08-21
+AI-058-C2,AI-058,Data lineage review,Yes,Pass,2025-09-21
+AI-058-C3,AI-058,Privacy assessment,Yes,Pass,2025-10-22
+AI-058-C4,AI-058,Security review,Yes,Pass,2025-11-22
+AI-058-C5,AI-058,Human oversight,Yes,Pass,2025-12-23
+AI-058-C6,AI-058,Model monitoring,Yes,Pass,2026-01-23
+AI-059-C1,AI-059,Use-case inventory,Yes,Pass,2025-08-25
+AI-059-C2,AI-059,Data lineage review,Yes,Pass,2025-09-25
+AI-059-C3,AI-059,Privacy assessment,Yes,Pass,2025-10-26
+AI-059-C4,AI-059,Security review,Yes,Pass,2025-11-26
+AI-059-C5,AI-059,Human oversight,Yes,Pass,2025-12-27
+AI-059-C6,AI-059,Model monitoring,Yes,Pass,2026-01-27
+AI-060-C1,AI-060,Use-case inventory,Yes,Pass,2025-08-29
+AI-060-C2,AI-060,Data lineage review,Yes,Pass,2025-09-29
+AI-060-C3,AI-060,Privacy assessment,Yes,Gap,2025-10-30
+AI-060-C4,AI-060,Security review,Yes,Pass,2025-11-30
+AI-060-C5,AI-060,Human oversight,Yes,Pass,2025-12-31
+AI-060-C6,AI-060,Model monitoring,Yes,Pass,2026-01-31
+AI-061-C1,AI-061,Use-case inventory,Yes,Pass,2025-09-02
+AI-061-C2,AI-061,Data lineage review,Yes,Pass,2025-10-03
+AI-061-C3,AI-061,Privacy assessment,Yes,Pass,2025-11-03
+AI-061-C4,AI-061,Security review,Yes,Gap,2025-12-04
+AI-061-C5,AI-061,Human oversight,Yes,Pass,2026-01-04
+AI-061-C6,AI-061,Model monitoring,Yes,Pass,2026-02-04
+AI-062-C1,AI-062,Use-case inventory,Yes,Pass,2025-09-06
+AI-062-C2,AI-062,Data lineage review,Yes,Pass,2025-10-07
+AI-062-C3,AI-062,Privacy assessment,Yes,Pass,2025-11-07
+AI-062-C4,AI-062,Security review,Yes,Pass,2025-12-08
+AI-062-C5,AI-062,Human oversight,Yes,Pass,2026-01-08
+AI-062-C6,AI-062,Model monitoring,Yes,Pass,2026-02-08
+AI-063-C1,AI-063,Use-case inventory,Yes,Pass,2025-09-10
+AI-063-C2,AI-063,Data lineage review,Yes,Pass,2025-10-11
+AI-063-C3,AI-063,Privacy assessment,Yes,Pass,2025-11-11
+AI-063-C4,AI-063,Security review,Yes,Pass,2025-12-12
+AI-063-C5,AI-063,Human oversight,Yes,Pass,2026-01-12
+AI-063-C6,AI-063,Model monitoring,Yes,Pass,2026-02-12
+AI-064-C1,AI-064,Use-case inventory,Yes,Pass,2025-09-14
+AI-064-C2,AI-064,Data lineage review,Yes,Gap,2025-10-15
+AI-064-C3,AI-064,Privacy assessment,Yes,Pass,2025-11-15
+AI-064-C4,AI-064,Security review,Yes,Pass,2025-12-16
+AI-064-C5,AI-064,Human oversight,Yes,Pass,2026-01-16
+AI-064-C6,AI-064,Model monitoring,Yes,Pass,2026-02-16
+AI-065-C1,AI-065,Use-case inventory,Yes,Pass,2025-09-18
+AI-065-C2,AI-065,Data lineage review,Yes,Pass,2025-10-19
+AI-065-C3,AI-065,Privacy assessment,Yes,Gap,2025-11-19
+AI-065-C4,AI-065,Security review,Yes,Pass,2025-12-20
+AI-065-C5,AI-065,Human oversight,Yes,Pass,2026-01-20
+AI-065-C6,AI-065,Model monitoring,Yes,Gap,2026-02-20
+AI-066-C1,AI-066,Use-case inventory,Yes,Pass,2025-09-22
+AI-066-C2,AI-066,Data lineage review,Yes,Pass,2025-10-23
+AI-066-C3,AI-066,Privacy assessment,Yes,Pass,2025-11-23
+AI-066-C4,AI-066,Security review,Yes,Pass,2025-12-24
+AI-066-C5,AI-066,Human oversight,Yes,Pass,2026-01-24
+AI-066-C6,AI-066,Model monitoring,Yes,Pass,2026-02-24
+AI-067-C1,AI-067,Use-case inventory,Yes,Pass,2025-09-26
+AI-067-C2,AI-067,Data lineage review,Yes,Pass,2025-10-27
+AI-067-C3,AI-067,Privacy assessment,Yes,Pass,2025-11-27
+AI-067-C4,AI-067,Security review,Yes,Pass,2025-12-28
+AI-067-C5,AI-067,Human oversight,Yes,Pass,2026-01-28
+AI-067-C6,AI-067,Model monitoring,Yes,Pass,2026-02-28
+AI-068-C1,AI-068,Use-case inventory,Yes,Gap,2025-09-30
+AI-068-C2,AI-068,Data lineage review,Yes,Pass,2025-10-31
+AI-068-C3,AI-068,Privacy assessment,Yes,Pass,2025-12-01
+AI-068-C4,AI-068,Security review,Yes,Pass,2026-01-01
+AI-068-C5,AI-068,Human oversight,Yes,Pass,2026-02-01
+AI-068-C6,AI-068,Model monitoring,Yes,Pass,2026-03-04
+AI-069-C1,AI-069,Use-case inventory,Yes,Pass,2025-10-04
+AI-069-C2,AI-069,Data lineage review,Yes,Gap,2025-11-04
+AI-069-C3,AI-069,Privacy assessment,Yes,Pass,2025-12-05
+AI-069-C4,AI-069,Security review,Yes,Pass,2026-01-05
+AI-069-C5,AI-069,Human oversight,Yes,Gap,2026-02-05
+AI-069-C6,AI-069,Model monitoring,Yes,Pass,2026-03-08
+AI-070-C1,AI-070,Use-case inventory,Yes,Pass,2025-10-08
+AI-070-C2,AI-070,Data lineage review,Yes,Pass,2025-11-08
+AI-070-C3,AI-070,Privacy assessment,Yes,Pass,2025-12-09
+AI-070-C4,AI-070,Security review,Yes,Pass,2026-01-09
+AI-070-C5,AI-070,Human oversight,Yes,Pass,2026-02-09
+AI-070-C6,AI-070,Model monitoring,Yes,Gap,2026-03-12
+AI-071-C1,AI-071,Use-case inventory,Yes,Pass,2025-10-12
+AI-071-C2,AI-071,Data lineage review,Yes,Pass,2025-11-12
+AI-071-C3,AI-071,Privacy assessment,Yes,Pass,2025-12-13
+AI-071-C4,AI-071,Security review,Yes,Pass,2026-01-13
+AI-071-C5,AI-071,Human oversight,Yes,Pass,2026-02-13
+AI-071-C6,AI-071,Model monitoring,Yes,Pass,2026-03-16
+AI-072-C1,AI-072,Use-case inventory,Yes,Pass,2025-10-16
+AI-072-C2,AI-072,Data lineage review,Yes,Pass,2025-11-16
+AI-072-C3,AI-072,Privacy assessment,Yes,Pass,2025-12-17
+AI-072-C4,AI-072,Security review,Yes,Pass,2026-01-17
+AI-072-C5,AI-072,Human oversight,Yes,Pass,2026-02-17
+AI-072-C6,AI-072,Model monitoring,Yes,Pass,2026-03-20
+AI-073-C1,AI-073,Use-case inventory,Yes,Gap,2025-10-20
+AI-073-C2,AI-073,Data lineage review,Yes,Pass,2025-11-20
+AI-073-C3,AI-073,Privacy assessment,Yes,Pass,2025-12-21
+AI-073-C4,AI-073,Security review,Yes,Gap,2026-01-21
+AI-073-C5,AI-073,Human oversight,Yes,Pass,2026-02-21
+AI-073-C6,AI-073,Model monitoring,Yes,Pass,2026-03-24
+AI-074-C1,AI-074,Use-case inventory,Yes,Pass,2025-10-24
+AI-074-C2,AI-074,Data lineage review,Yes,Pass,2025-11-24
+AI-074-C3,AI-074,Privacy assessment,Yes,Pass,2025-12-25
+AI-074-C4,AI-074,Security review,Yes,Pass,2026-01-25
+AI-074-C5,AI-074,Human oversight,Yes,Gap,2026-02-25
+AI-074-C6,AI-074,Model monitoring,Yes,Pass,2026-03-28
+AI-075-C1,AI-075,Use-case inventory,Yes,Pass,2025-10-28
+AI-075-C2,AI-075,Data lineage review,Yes,Pass,2025-11-28
+AI-075-C3,AI-075,Privacy assessment,Yes,Pass,2025-12-29
+AI-075-C4,AI-075,Security review,Yes,Pass,2026-01-29
+AI-075-C5,AI-075,Human oversight,Yes,Pass,2026-03-01
+AI-075-C6,AI-075,Model monitoring,Yes,Pass,2026-04-01
+AI-076-C1,AI-076,Use-case inventory,Yes,Pass,2025-11-01
+AI-076-C2,AI-076,Data lineage review,Yes,Pass,2025-12-02
+AI-076-C3,AI-076,Privacy assessment,Yes,Pass,2026-01-02
+AI-076-C4,AI-076,Security review,Yes,Pass,2026-02-02
+AI-076-C5,AI-076,Human oversight,Yes,Pass,2026-03-05
+AI-076-C6,AI-076,Model monitoring,Yes,Pass,2026-04-05
+AI-077-C1,AI-077,Use-case inventory,Yes,Pass,2025-11-05
+AI-077-C2,AI-077,Data lineage review,Yes,Pass,2025-12-06
+AI-077-C3,AI-077,Privacy assessment,Yes,Gap,2026-01-06
+AI-077-C4,AI-077,Security review,Yes,Pass,2026-02-06
+AI-077-C5,AI-077,Human oversight,Yes,Pass,2026-03-09
+AI-077-C6,AI-077,Model monitoring,Yes,Pass,2026-04-09
+AI-078-C1,AI-078,Use-case inventory,Yes,Pass,2025-11-09
+AI-078-C2,AI-078,Data lineage review,Yes,Pass,2025-12-10
+AI-078-C3,AI-078,Privacy assessment,Yes,Pass,2026-01-10
+AI-078-C4,AI-078,Security review,Yes,Gap,2026-02-10
+AI-078-C5,AI-078,Human oversight,Yes,Pass,2026-03-13
+AI-078-C6,AI-078,Model monitoring,Yes,Pass,2026-04-13
+AI-079-C1,AI-079,Use-case inventory,Yes,Pass,2025-11-13
+AI-079-C2,AI-079,Data lineage review,Yes,Pass,2025-12-14
+AI-079-C3,AI-079,Privacy assessment,Yes,Pass,2026-01-14
+AI-079-C4,AI-079,Security review,Yes,Pass,2026-02-14
+AI-079-C5,AI-079,Human oversight,Yes,Pass,2026-03-17
+AI-079-C6,AI-079,Model monitoring,Yes,Pass,2026-04-17
+AI-080-C1,AI-080,Use-case inventory,Yes,Pass,2025-11-17
+AI-080-C2,AI-080,Data lineage review,Yes,Pass,2025-12-18
+AI-080-C3,AI-080,Privacy assessment,Yes,Pass,2026-01-18
+AI-080-C4,AI-080,Security review,Yes,Pass,2026-02-18
+AI-080-C5,AI-080,Human oversight,Yes,Pass,2026-03-21
+AI-080-C6,AI-080,Model monitoring,Yes,Pass,2026-04-21
+AI-081-C1,AI-081,Use-case inventory,Yes,Pass,2025-11-21
+AI-081-C2,AI-081,Data lineage review,Yes,Gap,2025-12-22
+AI-081-C3,AI-081,Privacy assessment,Yes,Pass,2026-01-22
+AI-081-C4,AI-081,Security review,Yes,Pass,2026-02-22
+AI-081-C5,AI-081,Human oversight,Yes,Pass,2026-03-25
+AI-081-C6,AI-081,Model monitoring,Yes,Pass,2026-04-25
+AI-082-C1,AI-082,Use-case inventory,Yes,Pass,2025-11-25
+AI-082-C2,AI-082,Data lineage review,Yes,Pass,2025-12-26
+AI-082-C3,AI-082,Privacy assessment,Yes,Gap,2026-01-26
+AI-082-C4,AI-082,Security review,Yes,Pass,2026-02-26
+AI-082-C5,AI-082,Human oversight,Yes,Pass,2026-03-29
+AI-082-C6,AI-082,Model monitoring,Yes,Gap,2026-04-29
+AI-083-C1,AI-083,Use-case inventory,Yes,Pass,2025-11-29
+AI-083-C2,AI-083,Data lineage review,Yes,Pass,2025-12-30
+AI-083-C3,AI-083,Privacy assessment,Yes,Pass,2026-01-30
+AI-083-C4,AI-083,Security review,Yes,Pass,2026-03-02
+AI-083-C5,AI-083,Human oversight,Yes,Pass,2026-04-02
+AI-083-C6,AI-083,Model monitoring,Yes,Pass,2026-05-03
+AI-084-C1,AI-084,Use-case inventory,Yes,Pass,2025-12-03
+AI-084-C2,AI-084,Data lineage review,Yes,Pass,2026-01-03
+AI-084-C3,AI-084,Privacy assessment,Yes,Pass,2026-02-03
+AI-084-C4,AI-084,Security review,Yes,Pass,2026-03-06
+AI-084-C5,AI-084,Human oversight,Yes,Pass,2026-04-06
+AI-084-C6,AI-084,Model monitoring,Yes,Pass,2026-05-07
+AI-085-C1,AI-085,Use-case inventory,Yes,Gap,2025-12-07
+AI-085-C2,AI-085,Data lineage review,Yes,Pass,2026-01-07
+AI-085-C3,AI-085,Privacy assessment,Yes,Pass,2026-02-07
+AI-085-C4,AI-085,Security review,Yes,Pass,2026-03-10
+AI-085-C5,AI-085,Human oversight,Yes,Pass,2026-04-10
+AI-085-C6,AI-085,Model monitoring,Yes,Pass,2026-05-11
+AI-086-C1,AI-086,Use-case inventory,Yes,Pass,2025-12-11
+AI-086-C2,AI-086,Data lineage review,Yes,Gap,2026-01-11
+AI-086-C3,AI-086,Privacy assessment,Yes,Pass,2026-02-11
+AI-086-C4,AI-086,Security review,Yes,Pass,2026-03-14
+AI-086-C5,AI-086,Human oversight,Yes,Gap,2026-04-14
+AI-086-C6,AI-086,Model monitoring,Yes,Pass,2026-05-15
+AI-087-C1,AI-087,Use-case inventory,Yes,Pass,2025-12-15
+AI-087-C2,AI-087,Data lineage review,Yes,Pass,2026-01-15
+AI-087-C3,AI-087,Privacy assessment,Yes,Pass,2026-02-15
+AI-087-C4,AI-087,Security review,Yes,Pass,2026-03-18
+AI-087-C5,AI-087,Human oversight,Yes,Pass,2026-04-18
+AI-087-C6,AI-087,Model monitoring,Yes,Gap,2026-05-19
+AI-088-C1,AI-088,Use-case inventory,Yes,Pass,2025-12-19
+AI-088-C2,AI-088,Data lineage review,Yes,Pass,2026-01-19
+AI-088-C3,AI-088,Privacy assessment,Yes,Pass,2026-02-19
+AI-088-C4,AI-088,Security review,Yes,Pass,2026-03-22
+AI-088-C5,AI-088,Human oversight,Yes,Pass,2026-04-22
+AI-088-C6,AI-088,Model monitoring,Yes,Pass,2026-05-23
+AI-089-C1,AI-089,Use-case inventory,Yes,Pass,2025-12-23
+AI-089-C2,AI-089,Data lineage review,Yes,Pass,2026-01-23
+AI-089-C3,AI-089,Privacy assessment,Yes,Pass,2026-02-23
+AI-089-C4,AI-089,Security review,Yes,Pass,2026-03-26
+AI-089-C5,AI-089,Human oversight,Yes,Pass,2026-04-26
+AI-089-C6,AI-089,Model monitoring,Yes,Pass,2026-05-27
+AI-090-C1,AI-090,Use-case inventory,Yes,Gap,2025-12-27
+AI-090-C2,AI-090,Data lineage review,Yes,Pass,2026-01-27
+AI-090-C3,AI-090,Privacy assessment,Yes,Pass,2026-02-27
+AI-090-C4,AI-090,Security review,Yes,Gap,2026-03-30
+AI-090-C5,AI-090,Human oversight,Yes,Pass,2026-04-30
+AI-090-C6,AI-090,Model monitoring,Yes,Pass,2026-05-31
+AI-091-C1,AI-091,Use-case inventory,Yes,Pass,2025-12-31
+AI-091-C2,AI-091,Data lineage review,Yes,Pass,2026-01-31
+AI-091-C3,AI-091,Privacy assessment,Yes,Pass,2026-03-03
+AI-091-C4,AI-091,Security review,Yes,Pass,2026-04-03
+AI-091-C5,AI-091,Human oversight,Yes,Gap,2026-05-04
+AI-091-C6,AI-091,Model monitoring,Yes,Pass,2026-06-04
+AI-092-C1,AI-092,Use-case inventory,Yes,Pass,2026-01-04
+AI-092-C2,AI-092,Data lineage review,Yes,Pass,2026-02-04
+AI-092-C3,AI-092,Privacy assessment,Yes,Pass,2026-03-07
+AI-092-C4,AI-092,Security review,Yes,Pass,2026-04-07
+AI-092-C5,AI-092,Human oversight,Yes,Pass,2026-05-08
+AI-092-C6,AI-092,Model monitoring,Yes,Pass,2026-06-08
+AI-093-C1,AI-093,Use-case inventory,Yes,Pass,2026-01-08
+AI-093-C2,AI-093,Data lineage review,Yes,Pass,2026-02-08
+AI-093-C3,AI-093,Privacy assessment,Yes,Pass,2026-03-11
+AI-093-C4,AI-093,Security review,Yes,Pass,2026-04-11
+AI-093-C5,AI-093,Human oversight,Yes,Pass,2026-05-12
+AI-093-C6,AI-093,Model monitoring,Yes,Pass,2026-06-12
+AI-094-C1,AI-094,Use-case inventory,Yes,Pass,2026-01-12
+AI-094-C2,AI-094,Data lineage review,Yes,Pass,2026-02-12
+AI-094-C3,AI-094,Privacy assessment,Yes,Gap,2026-03-15
+AI-094-C4,AI-094,Security review,Yes,Pass,2026-04-15
+AI-094-C5,AI-094,Human oversight,Yes,Pass,2026-05-16
+AI-094-C6,AI-094,Model monitoring,Yes,Pass,2026-06-16
+AI-095-C1,AI-095,Use-case inventory,Yes,Pass,2026-01-16
+AI-095-C2,AI-095,Data lineage review,Yes,Pass,2026-02-16
+AI-095-C3,AI-095,Privacy assessment,Yes,Pass,2026-03-19
+AI-095-C4,AI-095,Security review,Yes,Gap,2026-04-19
+AI-095-C5,AI-095,Human oversight,Yes,Pass,2026-05-20
+AI-095-C6,AI-095,Model monitoring,Yes,Pass,2026-06-20
+AI-096-C1,AI-096,Use-case inventory,Yes,Pass,2026-01-20
+AI-096-C2,AI-096,Data lineage review,Yes,Pass,2026-02-20
+AI-096-C3,AI-096,Privacy assessment,Yes,Pass,2026-03-23
+AI-096-C4,AI-096,Security review,Yes,Pass,2026-04-23
+AI-096-C5,AI-096,Human oversight,Yes,Pass,2026-05-24
+AI-096-C6,AI-096,Model monitoring,Yes,Pass,2026-06-24
+AI-097-C1,AI-097,Use-case inventory,Yes,Pass,2026-01-24
+AI-097-C2,AI-097,Data lineage review,Yes,Pass,2026-02-24
+AI-097-C3,AI-097,Privacy assessment,Yes,Pass,2026-03-27
+AI-097-C4,AI-097,Security review,Yes,Pass,2026-04-27
+AI-097-C5,AI-097,Human oversight,Yes,Pass,2026-05-28
+AI-097-C6,AI-097,Model monitoring,Yes,Pass,2026-06-28
+AI-098-C1,AI-098,Use-case inventory,Yes,Pass,2026-01-28
+AI-098-C2,AI-098,Data lineage review,Yes,Gap,2026-02-28
+AI-098-C3,AI-098,Privacy assessment,Yes,Pass,2026-03-31
+AI-098-C4,AI-098,Security review,Yes,Pass,2026-05-01
+AI-098-C5,AI-098,Human oversight,Yes,Pass,2026-06-01
+AI-098-C6,AI-098,Model monitoring,Yes,Pass,2026-07-02
+AI-099-C1,AI-099,Use-case inventory,Yes,Pass,2026-02-01
+AI-099-C2,AI-099,Data lineage review,Yes,Pass,2026-03-04
+AI-099-C3,AI-099,Privacy assessment,Yes,Gap,2026-04-04
+AI-099-C4,AI-099,Security review,Yes,Pass,2026-05-05
+AI-099-C5,AI-099,Human oversight,Yes,Pass,2026-06-05
+AI-099-C6,AI-099,Model monitoring,Yes,Gap,2026-07-06
+AI-100-C1,AI-100,Use-case inventory,Yes,Pass,2026-02-05
+AI-100-C2,AI-100,Data lineage review,Yes,Pass,2026-03-08
+AI-100-C3,AI-100,Privacy assessment,Yes,Pass,2026-04-08
+AI-100-C4,AI-100,Security review,Yes,Pass,2026-05-09
+AI-100-C5,AI-100,Human oversight,Yes,Pass,2026-06-09
+AI-100-C6,AI-100,Model monitoring,Yes,Pass,2026-07-10
+AI-101-C1,AI-101,Use-case inventory,Yes,Pass,2026-02-09
+AI-101-C2,AI-101,Data lineage review,Yes,Pass,2026-03-12
+AI-101-C3,AI-101,Privacy assessment,Yes,Pass,2026-04-12
+AI-101-C4,AI-101,Security review,Yes,Pass,2026-05-13
+AI-101-C5,AI-101,Human oversight,Yes,Pass,2026-06-13
+AI-101-C6,AI-101,Model monitoring,Yes,Pass,2026-07-14
+AI-102-C1,AI-102,Use-case inventory,Yes,Gap,2026-02-13
+AI-102-C2,AI-102,Data lineage review,Yes,Pass,2026-03-16
+AI-102-C3,AI-102,Privacy assessment,Yes,Pass,2026-04-16
+AI-102-C4,AI-102,Security review,Yes,Pass,2026-05-17
+AI-102-C5,AI-102,Human oversight,Yes,Pass,2026-06-17
+AI-102-C6,AI-102,Model monitoring,Yes,Pass,2025-01-04
+AI-103-C1,AI-103,Use-case inventory,Yes,Pass,2026-02-17
+AI-103-C2,AI-103,Data lineage review,Yes,Gap,2026-03-20
+AI-103-C3,AI-103,Privacy assessment,Yes,Pass,2026-04-20
+AI-103-C4,AI-103,Security review,Yes,Pass,2026-05-21
+AI-103-C5,AI-103,Human oversight,Yes,Gap,2026-06-21
+AI-103-C6,AI-103,Model monitoring,Yes,Pass,2025-01-08
+AI-104-C1,AI-104,Use-case inventory,Yes,Pass,2026-02-21
+AI-104-C2,AI-104,Data lineage review,Yes,Pass,2026-03-24
+AI-104-C3,AI-104,Privacy assessment,Yes,Pass,2026-04-24
+AI-104-C4,AI-104,Security review,Yes,Pass,2026-05-25
+AI-104-C5,AI-104,Human oversight,Yes,Pass,2026-06-25
+AI-104-C6,AI-104,Model monitoring,Yes,Gap,2025-01-12
+AI-105-C1,AI-105,Use-case inventory,Yes,Pass,2026-02-25
+AI-105-C2,AI-105,Data lineage review,Yes,Pass,2026-03-28
+AI-105-C3,AI-105,Privacy assessment,Yes,Pass,2026-04-28
+AI-105-C4,AI-105,Security review,Yes,Pass,2026-05-29
+AI-105-C5,AI-105,Human oversight,Yes,Pass,2026-06-29
+AI-105-C6,AI-105,Model monitoring,Yes,Pass,2025-01-16
+AI-106-C1,AI-106,Use-case inventory,Yes,Pass,2026-03-01
+AI-106-C2,AI-106,Data lineage review,Yes,Pass,2026-04-01
+AI-106-C3,AI-106,Privacy assessment,Yes,Pass,2026-05-02
+AI-106-C4,AI-106,Security review,Yes,Pass,2026-06-02
+AI-106-C5,AI-106,Human oversight,Yes,Pass,2026-07-03
+AI-106-C6,AI-106,Model monitoring,Yes,Pass,2025-01-20
+AI-107-C1,AI-107,Use-case inventory,Yes,Gap,2026-03-05
+AI-107-C2,AI-107,Data lineage review,Yes,Pass,2026-04-05
+AI-107-C3,AI-107,Privacy assessment,Yes,Pass,2026-05-06
+AI-107-C4,AI-107,Security review,Yes,Gap,2026-06-06
+AI-107-C5,AI-107,Human oversight,Yes,Pass,2026-07-07
+AI-107-C6,AI-107,Model monitoring,Yes,Pass,2025-01-24
+AI-108-C1,AI-108,Use-case inventory,Yes,Pass,2026-03-09
+AI-108-C2,AI-108,Data lineage review,Yes,Pass,2026-04-09
+AI-108-C3,AI-108,Privacy assessment,Yes,Pass,2026-05-10
+AI-108-C4,AI-108,Security review,Yes,Pass,2026-06-10
+AI-108-C5,AI-108,Human oversight,Yes,Gap,2026-07-11
+AI-108-C6,AI-108,Model monitoring,Yes,Pass,2025-01-28
+AI-109-C1,AI-109,Use-case inventory,Yes,Pass,2026-03-13
+AI-109-C2,AI-109,Data lineage review,Yes,Pass,2026-04-13
+AI-109-C3,AI-109,Privacy assessment,Yes,Pass,2026-05-14
+AI-109-C4,AI-109,Security review,Yes,Pass,2026-06-14
+AI-109-C5,AI-109,Human oversight,Yes,Pass,2025-01-01
+AI-109-C6,AI-109,Model monitoring,Yes,Pass,2025-02-01
+AI-110-C1,AI-110,Use-case inventory,Yes,Pass,2026-03-17
+AI-110-C2,AI-110,Data lineage review,Yes,Pass,2026-04-17
+AI-110-C3,AI-110,Privacy assessment,Yes,Pass,2026-05-18
+AI-110-C4,AI-110,Security review,Yes,Pass,2026-06-18
+AI-110-C5,AI-110,Human oversight,Yes,Pass,2025-01-05
+AI-110-C6,AI-110,Model monitoring,Yes,Pass,2025-02-05
+AI-111-C1,AI-111,Use-case inventory,Yes,Pass,2026-03-21
+AI-111-C2,AI-111,Data lineage review,Yes,Pass,2026-04-21
+AI-111-C3,AI-111,Privacy assessment,Yes,Gap,2026-05-22
+AI-111-C4,AI-111,Security review,Yes,Pass,2026-06-22
+AI-111-C5,AI-111,Human oversight,Yes,Pass,2025-01-09
+AI-111-C6,AI-111,Model monitoring,Yes,Pass,2025-02-09
+AI-112-C1,AI-112,Use-case inventory,Yes,Pass,2026-03-25
+AI-112-C2,AI-112,Data lineage review,Yes,Pass,2026-04-25
+AI-112-C3,AI-112,Privacy assessment,Yes,Pass,2026-05-26
+AI-112-C4,AI-112,Security review,Yes,Gap,2026-06-26
+AI-112-C5,AI-112,Human oversight,Yes,Pass,2025-01-13
+AI-112-C6,AI-112,Model monitoring,Yes,Pass,2025-02-13
+AI-113-C1,AI-113,Use-case inventory,Yes,Pass,2026-03-29
+AI-113-C2,AI-113,Data lineage review,Yes,Pass,2026-04-29
+AI-113-C3,AI-113,Privacy assessment,Yes,Pass,2026-05-30
+AI-113-C4,AI-113,Security review,Yes,Pass,2026-06-30
+AI-113-C5,AI-113,Human oversight,Yes,Pass,2025-01-17
+AI-113-C6,AI-113,Model monitoring,Yes,Pass,2025-02-17
+AI-114-C1,AI-114,Use-case inventory,Yes,Pass,2026-04-02
+AI-114-C2,AI-114,Data lineage review,Yes,Pass,2026-05-03
+AI-114-C3,AI-114,Privacy assessment,Yes,Pass,2026-06-03
+AI-114-C4,AI-114,Security review,Yes,Pass,2026-07-04
+AI-114-C5,AI-114,Human oversight,Yes,Pass,2025-01-21
+AI-114-C6,AI-114,Model monitoring,Yes,Pass,2025-02-21
+AI-115-C1,AI-115,Use-case inventory,Yes,Pass,2026-04-06
+AI-115-C2,AI-115,Data lineage review,Yes,Gap,2026-05-07
+AI-115-C3,AI-115,Privacy assessment,Yes,Pass,2026-06-07
+AI-115-C4,AI-115,Security review,Yes,Pass,2026-07-08
+AI-115-C5,AI-115,Human oversight,Yes,Pass,2025-01-25
+AI-115-C6,AI-115,Model monitoring,Yes,Pass,2025-02-25
+AI-116-C1,AI-116,Use-case inventory,Yes,Pass,2026-04-10
+AI-116-C2,AI-116,Data lineage review,Yes,Pass,2026-05-11
+AI-116-C3,AI-116,Privacy assessment,Yes,Gap,2026-06-11
+AI-116-C4,AI-116,Security review,Yes,Pass,2026-07-12
+AI-116-C5,AI-116,Human oversight,Yes,Pass,2025-01-29
+AI-116-C6,AI-116,Model monitoring,Yes,Gap,2025-03-01
+AI-117-C1,AI-117,Use-case inventory,Yes,Pass,2026-04-14
+AI-117-C2,AI-117,Data lineage review,Yes,Pass,2026-05-15
+AI-117-C3,AI-117,Privacy assessment,Yes,Pass,2026-06-15
+AI-117-C4,AI-117,Security review,Yes,Pass,2025-01-02
+AI-117-C5,AI-117,Human oversight,Yes,Pass,2025-02-02
+AI-117-C6,AI-117,Model monitoring,Yes,Pass,2025-03-05
+AI-118-C1,AI-118,Use-case inventory,Yes,Pass,2026-04-18
+AI-118-C2,AI-118,Data lineage review,Yes,Pass,2026-05-19
+AI-118-C3,AI-118,Privacy assessment,Yes,Pass,2026-06-19
+AI-118-C4,AI-118,Security review,Yes,Pass,2025-01-06
+AI-118-C5,AI-118,Human oversight,Yes,Pass,2025-02-06
+AI-118-C6,AI-118,Model monitoring,Yes,Pass,2025-03-09
+AI-119-C1,AI-119,Use-case inventory,Yes,Gap,2026-04-22
+AI-119-C2,AI-119,Data lineage review,Yes,Pass,2026-05-23
+AI-119-C3,AI-119,Privacy assessment,Yes,Pass,2026-06-23
+AI-119-C4,AI-119,Security review,Yes,Pass,2025-01-10
+AI-119-C5,AI-119,Human oversight,Yes,Pass,2025-02-10
+AI-119-C6,AI-119,Model monitoring,Yes,Pass,2025-03-13
+AI-120-C1,AI-120,Use-case inventory,Yes,Pass,2026-04-26
+AI-120-C2,AI-120,Data lineage review,Yes,Gap,2026-05-27
+AI-120-C3,AI-120,Privacy assessment,Yes,Pass,2026-06-27
+AI-120-C4,AI-120,Security review,Yes,Pass,2025-01-14
+AI-120-C5,AI-120,Human oversight,Yes,Gap,2025-02-14
+AI-120-C6,AI-120,Model monitoring,Yes,Pass,2025-03-17
+AI-121-C1,AI-121,Use-case inventory,Yes,Pass,2026-04-30
+AI-121-C2,AI-121,Data lineage review,Yes,Pass,2026-05-31
+AI-121-C3,AI-121,Privacy assessment,Yes,Pass,2026-07-01
+AI-121-C4,AI-121,Security review,Yes,Pass,2025-01-18
+AI-121-C5,AI-121,Human oversight,Yes,Pass,2025-02-18
+AI-121-C6,AI-121,Model monitoring,Yes,Gap,2025-03-21
+AI-122-C1,AI-122,Use-case inventory,Yes,Pass,2026-05-04
+AI-122-C2,AI-122,Data lineage review,Yes,Pass,2026-06-04
+AI-122-C3,AI-122,Privacy assessment,Yes,Pass,2026-07-05
+AI-122-C4,AI-122,Security review,Yes,Pass,2025-01-22
+AI-122-C5,AI-122,Human oversight,Yes,Pass,2025-02-22
+AI-122-C6,AI-122,Model monitoring,Yes,Pass,2025-03-25
+AI-123-C1,AI-123,Use-case inventory,Yes,Pass,2026-05-08
+AI-123-C2,AI-123,Data lineage review,Yes,Pass,2026-06-08
+AI-123-C3,AI-123,Privacy assessment,Yes,Pass,2026-07-09
+AI-123-C4,AI-123,Security review,Yes,Pass,2025-01-26
+AI-123-C5,AI-123,Human oversight,Yes,Pass,2025-02-26
+AI-123-C6,AI-123,Model monitoring,Yes,Pass,2025-03-29
+AI-124-C1,AI-124,Use-case inventory,Yes,Gap,2026-05-12
+AI-124-C2,AI-124,Data lineage review,Yes,Pass,2026-06-12
+AI-124-C3,AI-124,Privacy assessment,Yes,Pass,2026-07-13
+AI-124-C4,AI-124,Security review,Yes,Gap,2025-01-30
+AI-124-C5,AI-124,Human oversight,Yes,Pass,2025-03-02
+AI-124-C6,AI-124,Model monitoring,Yes,Pass,2025-04-02
+AI-125-C1,AI-125,Use-case inventory,Yes,Pass,2026-05-16
+AI-125-C2,AI-125,Data lineage review,Yes,Pass,2026-06-16
+AI-125-C3,AI-125,Privacy assessment,Yes,Pass,2025-01-03
+AI-125-C4,AI-125,Security review,Yes,Pass,2025-02-03
+AI-125-C5,AI-125,Human oversight,Yes,Gap,2025-03-06
+AI-125-C6,AI-125,Model monitoring,Yes,Pass,2025-04-06
+AI-126-C1,AI-126,Use-case inventory,Yes,Pass,2026-05-20
+AI-126-C2,AI-126,Data lineage review,Yes,Pass,2026-06-20
+AI-126-C3,AI-126,Privacy assessment,Yes,Pass,2025-01-07
+AI-126-C4,AI-126,Security review,Yes,Pass,2025-02-07
+AI-126-C5,AI-126,Human oversight,Yes,Pass,2025-03-10
+AI-126-C6,AI-126,Model monitoring,Yes,Pass,2025-04-10
+AI-127-C1,AI-127,Use-case inventory,Yes,Pass,2026-05-24
+AI-127-C2,AI-127,Data lineage review,Yes,Pass,2026-06-24
+AI-127-C3,AI-127,Privacy assessment,Yes,Pass,2025-01-11
+AI-127-C4,AI-127,Security review,Yes,Pass,2025-02-11
+AI-127-C5,AI-127,Human oversight,Yes,Pass,2025-03-14
+AI-127-C6,AI-127,Model monitoring,Yes,Pass,2025-04-14
+AI-128-C1,AI-128,Use-case inventory,Yes,Pass,2026-05-28
+AI-128-C2,AI-128,Data lineage review,Yes,Pass,2026-06-28
+AI-128-C3,AI-128,Privacy assessment,Yes,Gap,2025-01-15
+AI-128-C4,AI-128,Security review,Yes,Pass,2025-02-15
+AI-128-C5,AI-128,Human oversight,Yes,Pass,2025-03-18
+AI-128-C6,AI-128,Model monitoring,Yes,Pass,2025-04-18
+AI-129-C1,AI-129,Use-case inventory,Yes,Pass,2026-06-01
+AI-129-C2,AI-129,Data lineage review,Yes,Pass,2026-07-02
+AI-129-C3,AI-129,Privacy assessment,Yes,Pass,2025-01-19
+AI-129-C4,AI-129,Security review,Yes,Gap,2025-02-19
+AI-129-C5,AI-129,Human oversight,Yes,Pass,2025-03-22
+AI-129-C6,AI-129,Model monitoring,Yes,Pass,2025-04-22
+AI-130-C1,AI-130,Use-case inventory,Yes,Pass,2026-06-05
+AI-130-C2,AI-130,Data lineage review,Yes,Pass,2026-07-06
+AI-130-C3,AI-130,Privacy assessment,Yes,Pass,2025-01-23
+AI-130-C4,AI-130,Security review,Yes,Pass,2025-02-23
+AI-130-C5,AI-130,Human oversight,Yes,Pass,2025-03-26
+AI-130-C6,AI-130,Model monitoring,Yes,Pass,2025-04-26
+AI-131-C1,AI-131,Use-case inventory,Yes,Pass,2026-06-09
+AI-131-C2,AI-131,Data lineage review,Yes,Pass,2026-07-10
+AI-131-C3,AI-131,Privacy assessment,Yes,Pass,2025-01-27
+AI-131-C4,AI-131,Security review,Yes,Pass,2025-02-27
+AI-131-C5,AI-131,Human oversight,Yes,Pass,2025-03-30
+AI-131-C6,AI-131,Model monitoring,Yes,Pass,2025-04-30
+AI-132-C1,AI-132,Use-case inventory,Yes,Pass,2026-06-13
+AI-132-C2,AI-132,Data lineage review,Yes,Gap,2026-07-14
+AI-132-C3,AI-132,Privacy assessment,Yes,Pass,2025-01-31
+AI-132-C4,AI-132,Security review,Yes,Pass,2025-03-03
+AI-132-C5,AI-132,Human oversight,Yes,Pass,2025-04-03
+AI-132-C6,AI-132,Model monitoring,Yes,Pass,2025-05-04
+AI-133-C1,AI-133,Use-case inventory,Yes,Pass,2026-06-17
+AI-133-C2,AI-133,Data lineage review,Yes,Pass,2025-01-04
+AI-133-C3,AI-133,Privacy assessment,Yes,Gap,2025-02-04
+AI-133-C4,AI-133,Security review,Yes,Pass,2025-03-07
+AI-133-C5,AI-133,Human oversight,Yes,Pass,2025-04-07
+AI-133-C6,AI-133,Model monitoring,Yes,Gap,2025-05-08
+AI-134-C1,AI-134,Use-case inventory,Yes,Pass,2026-06-21
+AI-134-C2,AI-134,Data lineage review,Yes,Pass,2025-01-08
+AI-134-C3,AI-134,Privacy assessment,Yes,Pass,2025-02-08
+AI-134-C4,AI-134,Security review,Yes,Pass,2025-03-11
+AI-134-C5,AI-134,Human oversight,Yes,Pass,2025-04-11
+AI-134-C6,AI-134,Model monitoring,Yes,Pass,2025-05-12
+AI-135-C1,AI-135,Use-case inventory,Yes,Pass,2026-06-25
+AI-135-C2,AI-135,Data lineage review,Yes,Pass,2025-01-12
+AI-135-C3,AI-135,Privacy assessment,Yes,Pass,2025-02-12
+AI-135-C4,AI-135,Security review,Yes,Pass,2025-03-15
+AI-135-C5,AI-135,Human oversight,Yes,Pass,2025-04-15
+AI-135-C6,AI-135,Model monitoring,Yes,Pass,2025-05-16
+AI-136-C1,AI-136,Use-case inventory,Yes,Gap,2026-06-29
+AI-136-C2,AI-136,Data lineage review,Yes,Pass,2025-01-16
+AI-136-C3,AI-136,Privacy assessment,Yes,Pass,2025-02-16
+AI-136-C4,AI-136,Security review,Yes,Pass,2025-03-19
+AI-136-C5,AI-136,Human oversight,Yes,Pass,2025-04-19
+AI-136-C6,AI-136,Model monitoring,Yes,Pass,2025-05-20
+AI-137-C1,AI-137,Use-case inventory,Yes,Pass,2026-07-03
+AI-137-C2,AI-137,Data lineage review,Yes,Gap,2025-01-20
+AI-137-C3,AI-137,Privacy assessment,Yes,Pass,2025-02-20
+AI-137-C4,AI-137,Security review,Yes,Pass,2025-03-23
+AI-137-C5,AI-137,Human oversight,Yes,Gap,2025-04-23
+AI-137-C6,AI-137,Model monitoring,Yes,Pass,2025-05-24
+AI-138-C1,AI-138,Use-case inventory,Yes,Pass,2026-07-07
+AI-138-C2,AI-138,Data lineage review,Yes,Pass,2025-01-24
+AI-138-C3,AI-138,Privacy assessment,Yes,Pass,2025-02-24
+AI-138-C4,AI-138,Security review,Yes,Pass,2025-03-27
+AI-138-C5,AI-138,Human oversight,Yes,Pass,2025-04-27
+AI-138-C6,AI-138,Model monitoring,Yes,Gap,2025-05-28
+AI-139-C1,AI-139,Use-case inventory,Yes,Pass,2026-07-11
+AI-139-C2,AI-139,Data lineage review,Yes,Pass,2025-01-28
+AI-139-C3,AI-139,Privacy assessment,Yes,Pass,2025-02-28
+AI-139-C4,AI-139,Security review,Yes,Pass,2025-03-31
+AI-139-C5,AI-139,Human oversight,Yes,Pass,2025-05-01
+AI-139-C6,AI-139,Model monitoring,Yes,Pass,2025-06-01
+AI-140-C1,AI-140,Use-case inventory,Yes,Pass,2025-01-01
+AI-140-C2,AI-140,Data lineage review,Yes,Pass,2025-02-01
+AI-140-C3,AI-140,Privacy assessment,Yes,Pass,2025-03-04
+AI-140-C4,AI-140,Security review,Yes,Pass,2025-04-04
+AI-140-C5,AI-140,Human oversight,Yes,Pass,2025-05-05
+AI-140-C6,AI-140,Model monitoring,Yes,Pass,2025-06-05
+AI-141-C1,AI-141,Use-case inventory,Yes,Gap,2025-01-05
+AI-141-C2,AI-141,Data lineage review,Yes,Pass,2025-02-05
+AI-141-C3,AI-141,Privacy assessment,Yes,Pass,2025-03-08
+AI-141-C4,AI-141,Security review,Yes,Gap,2025-04-08
+AI-141-C5,AI-141,Human oversight,Yes,Pass,2025-05-09
+AI-141-C6,AI-141,Model monitoring,Yes,Pass,2025-06-09
+AI-142-C1,AI-142,Use-case inventory,Yes,Pass,2025-01-09
+AI-142-C2,AI-142,Data lineage review,Yes,Pass,2025-02-09
+AI-142-C3,AI-142,Privacy assessment,Yes,Pass,2025-03-12
+AI-142-C4,AI-142,Security review,Yes,Pass,2025-04-12
+AI-142-C5,AI-142,Human oversight,Yes,Gap,2025-05-13
+AI-142-C6,AI-142,Model monitoring,Yes,Pass,2025-06-13
+AI-143-C1,AI-143,Use-case inventory,Yes,Pass,2025-01-13
+AI-143-C2,AI-143,Data lineage review,Yes,Pass,2025-02-13
+AI-143-C3,AI-143,Privacy assessment,Yes,Pass,2025-03-16
+AI-143-C4,AI-143,Security review,Yes,Pass,2025-04-16
+AI-143-C5,AI-143,Human oversight,Yes,Pass,2025-05-17
+AI-143-C6,AI-143,Model monitoring,Yes,Pass,2025-06-17
+AI-144-C1,AI-144,Use-case inventory,Yes,Pass,2025-01-17
+AI-144-C2,AI-144,Data lineage review,Yes,Pass,2025-02-17
+AI-144-C3,AI-144,Privacy assessment,Yes,Pass,2025-03-20
+AI-144-C4,AI-144,Security review,Yes,Pass,2025-04-20
+AI-144-C5,AI-144,Human oversight,Yes,Pass,2025-05-21
+AI-144-C6,AI-144,Model monitoring,Yes,Pass,2025-06-21
+AI-145-C1,AI-145,Use-case inventory,Yes,Pass,2025-01-21
+AI-145-C2,AI-145,Data lineage review,Yes,Pass,2025-02-21
+AI-145-C3,AI-145,Privacy assessment,Yes,Gap,2025-03-24
+AI-145-C4,AI-145,Security review,Yes,Pass,2025-04-24
+AI-145-C5,AI-145,Human oversight,Yes,Pass,2025-05-25
+AI-145-C6,AI-145,Model monitoring,Yes,Pass,2025-06-25
+AI-146-C1,AI-146,Use-case inventory,Yes,Pass,2025-01-25
+AI-146-C2,AI-146,Data lineage review,Yes,Pass,2025-02-25
+AI-146-C3,AI-146,Privacy assessment,Yes,Pass,2025-03-28
+AI-146-C4,AI-146,Security review,Yes,Gap,2025-04-28
+AI-146-C5,AI-146,Human oversight,Yes,Pass,2025-05-29
+AI-146-C6,AI-146,Model monitoring,Yes,Pass,2025-06-29
+AI-147-C1,AI-147,Use-case inventory,Yes,Pass,2025-01-29
+AI-147-C2,AI-147,Data lineage review,Yes,Pass,2025-03-01
+AI-147-C3,AI-147,Privacy assessment,Yes,Pass,2025-04-01
+AI-147-C4,AI-147,Security review,Yes,Pass,2025-05-02
+AI-147-C5,AI-147,Human oversight,Yes,Pass,2025-06-02
+AI-147-C6,AI-147,Model monitoring,Yes,Pass,2025-07-03
+AI-148-C1,AI-148,Use-case inventory,Yes,Pass,2025-02-02
+AI-148-C2,AI-148,Data lineage review,Yes,Pass,2025-03-05
+AI-148-C3,AI-148,Privacy assessment,Yes,Pass,2025-04-05
+AI-148-C4,AI-148,Security review,Yes,Pass,2025-05-06
+AI-148-C5,AI-148,Human oversight,Yes,Pass,2025-06-06
+AI-148-C6,AI-148,Model monitoring,Yes,Pass,2025-07-07
+AI-149-C1,AI-149,Use-case inventory,Yes,Pass,2025-02-06
+AI-149-C2,AI-149,Data lineage review,Yes,Gap,2025-03-09
+AI-149-C3,AI-149,Privacy assessment,Yes,Pass,2025-04-09
+AI-149-C4,AI-149,Security review,Yes,Pass,2025-05-10
+AI-149-C5,AI-149,Human oversight,Yes,Pass,2025-06-10
+AI-149-C6,AI-149,Model monitoring,Yes,Pass,2025-07-11
+AI-150-C1,AI-150,Use-case inventory,Yes,Pass,2025-02-10
+AI-150-C2,AI-150,Data lineage review,Yes,Pass,2025-03-13
+AI-150-C3,AI-150,Privacy assessment,Yes,Gap,2025-04-13
+AI-150-C4,AI-150,Security review,Yes,Pass,2025-05-14
+AI-150-C5,AI-150,Human oversight,Yes,Pass,2025-06-14
+AI-150-C6,AI-150,Model monitoring,Yes,Gap,2025-07-15
+AI-151-C1,AI-151,Use-case inventory,Yes,Pass,2025-02-14
+AI-151-C2,AI-151,Data lineage review,Yes,Pass,2025-03-17
+AI-151-C3,AI-151,Privacy assessment,Yes,Pass,2025-04-17
+AI-151-C4,AI-151,Security review,Yes,Pass,2025-05-18
+AI-151-C5,AI-151,Human oversight,Yes,Pass,2025-06-18
+AI-151-C6,AI-151,Model monitoring,Yes,Pass,2025-07-19
+AI-152-C1,AI-152,Use-case inventory,Yes,Pass,2025-02-18
+AI-152-C2,AI-152,Data lineage review,Yes,Pass,2025-03-21
+AI-152-C3,AI-152,Privacy assessment,Yes,Pass,2025-04-21
+AI-152-C4,AI-152,Security review,Yes,Pass,2025-05-22
+AI-152-C5,AI-152,Human oversight,Yes,Pass,2025-06-22
+AI-152-C6,AI-152,Model monitoring,Yes,Pass,2025-07-23
+AI-153-C1,AI-153,Use-case inventory,Yes,Gap,2025-02-22
+AI-153-C2,AI-153,Data lineage review,Yes,Pass,2025-03-25
+AI-153-C3,AI-153,Privacy assessment,Yes,Pass,2025-04-25
+AI-153-C4,AI-153,Security review,Yes,Pass,2025-05-26
+AI-153-C5,AI-153,Human oversight,Yes,Pass,2025-06-26
+AI-153-C6,AI-153,Model monitoring,Yes,Pass,2025-07-27
+AI-154-C1,AI-154,Use-case inventory,Yes,Pass,2025-02-26
+AI-154-C2,AI-154,Data lineage review,Yes,Gap,2025-03-29
+AI-154-C3,AI-154,Privacy assessment,Yes,Pass,2025-04-29
+AI-154-C4,AI-154,Security review,Yes,Pass,2025-05-30
+AI-154-C5,AI-154,Human oversight,Yes,Gap,2025-06-30
+AI-154-C6,AI-154,Model monitoring,Yes,Pass,2025-07-31
+AI-155-C1,AI-155,Use-case inventory,Yes,Pass,2025-03-02
+AI-155-C2,AI-155,Data lineage review,Yes,Pass,2025-04-02
+AI-155-C3,AI-155,Privacy assessment,Yes,Pass,2025-05-03
+AI-155-C4,AI-155,Security review,Yes,Pass,2025-06-03
+AI-155-C5,AI-155,Human oversight,Yes,Pass,2025-07-04
+AI-155-C6,AI-155,Model monitoring,Yes,Gap,2025-08-04
+AI-156-C1,AI-156,Use-case inventory,Yes,Pass,2025-03-06
+AI-156-C2,AI-156,Data lineage review,Yes,Pass,2025-04-06
+AI-156-C3,AI-156,Privacy assessment,Yes,Pass,2025-05-07
+AI-156-C4,AI-156,Security review,Yes,Pass,2025-06-07
+AI-156-C5,AI-156,Human oversight,Yes,Pass,2025-07-08
+AI-156-C6,AI-156,Model monitoring,Yes,Pass,2025-08-08
+AI-157-C1,AI-157,Use-case inventory,Yes,Pass,2025-03-10
+AI-157-C2,AI-157,Data lineage review,Yes,Pass,2025-04-10
+AI-157-C3,AI-157,Privacy assessment,Yes,Pass,2025-05-11
+AI-157-C4,AI-157,Security review,Yes,Pass,2025-06-11
+AI-157-C5,AI-157,Human oversight,Yes,Pass,2025-07-12
+AI-157-C6,AI-157,Model monitoring,Yes,Pass,2025-08-12
+AI-158-C1,AI-158,Use-case inventory,Yes,Gap,2025-03-14
+AI-158-C2,AI-158,Data lineage review,Yes,Pass,2025-04-14
+AI-158-C3,AI-158,Privacy assessment,Yes,Pass,2025-05-15
+AI-158-C4,AI-158,Security review,Yes,Gap,2025-06-15
+AI-158-C5,AI-158,Human oversight,Yes,Pass,2025-07-16
+AI-158-C6,AI-158,Model monitoring,Yes,Pass,2025-08-16
+AI-159-C1,AI-159,Use-case inventory,Yes,Pass,2025-03-18
+AI-159-C2,AI-159,Data lineage review,Yes,Pass,2025-04-18
+AI-159-C3,AI-159,Privacy assessment,Yes,Pass,2025-05-19
+AI-159-C4,AI-159,Security review,Yes,Pass,2025-06-19
+AI-159-C5,AI-159,Human oversight,Yes,Gap,2025-07-20
+AI-159-C6,AI-159,Model monitoring,Yes,Pass,2025-08-20
+AI-160-C1,AI-160,Use-case inventory,Yes,Pass,2025-03-22
+AI-160-C2,AI-160,Data lineage review,Yes,Pass,2025-04-22
+AI-160-C3,AI-160,Privacy assessment,Yes,Pass,2025-05-23
+AI-160-C4,AI-160,Security review,Yes,Pass,2025-06-23
+AI-160-C5,AI-160,Human oversight,Yes,Pass,2025-07-24
+AI-160-C6,AI-160,Model monitoring,Yes,Pass,2025-08-24
+AI-161-C1,AI-161,Use-case inventory,Yes,Pass,2025-03-26
+AI-161-C2,AI-161,Data lineage review,Yes,Pass,2025-04-26
+AI-161-C3,AI-161,Privacy assessment,Yes,Pass,2025-05-27
+AI-161-C4,AI-161,Security review,Yes,Pass,2025-06-27
+AI-161-C5,AI-161,Human oversight,Yes,Pass,2025-07-28
+AI-161-C6,AI-161,Model monitoring,Yes,Pass,2025-08-28
+AI-162-C1,AI-162,Use-case inventory,Yes,Pass,2025-03-30
+AI-162-C2,AI-162,Data lineage review,Yes,Pass,2025-04-30
+AI-162-C3,AI-162,Privacy assessment,Yes,Gap,2025-05-31
+AI-162-C4,AI-162,Security review,Yes,Pass,2025-07-01
+AI-162-C5,AI-162,Human oversight,Yes,Pass,2025-08-01
+AI-162-C6,AI-162,Model monitoring,Yes,Pass,2025-09-01
+AI-163-C1,AI-163,Use-case inventory,Yes,Pass,2025-04-03
+AI-163-C2,AI-163,Data lineage review,Yes,Pass,2025-05-04
+AI-163-C3,AI-163,Privacy assessment,Yes,Pass,2025-06-04
+AI-163-C4,AI-163,Security review,Yes,Gap,2025-07-05
+AI-163-C5,AI-163,Human oversight,Yes,Pass,2025-08-05
+AI-163-C6,AI-163,Model monitoring,Yes,Pass,2025-09-05
+AI-164-C1,AI-164,Use-case inventory,Yes,Pass,2025-04-07
+AI-164-C2,AI-164,Data lineage review,Yes,Pass,2025-05-08
+AI-164-C3,AI-164,Privacy assessment,Yes,Pass,2025-06-08
+AI-164-C4,AI-164,Security review,Yes,Pass,2025-07-09
+AI-164-C5,AI-164,Human oversight,Yes,Pass,2025-08-09
+AI-164-C6,AI-164,Model monitoring,Yes,Pass,2025-09-09
+AI-165-C1,AI-165,Use-case inventory,Yes,Pass,2025-04-11
+AI-165-C2,AI-165,Data lineage review,Yes,Pass,2025-05-12
+AI-165-C3,AI-165,Privacy assessment,Yes,Pass,2025-06-12
+AI-165-C4,AI-165,Security review,Yes,Pass,2025-07-13
+AI-165-C5,AI-165,Human oversight,Yes,Pass,2025-08-13
+AI-165-C6,AI-165,Model monitoring,Yes,Pass,2025-09-13
+AI-166-C1,AI-166,Use-case inventory,Yes,Pass,2025-04-15
+AI-166-C2,AI-166,Data lineage review,Yes,Gap,2025-05-16
+AI-166-C3,AI-166,Privacy assessment,Yes,Pass,2025-06-16
+AI-166-C4,AI-166,Security review,Yes,Pass,2025-07-17
+AI-166-C5,AI-166,Human oversight,Yes,Pass,2025-08-17
+AI-166-C6,AI-166,Model monitoring,Yes,Pass,2025-09-17
+AI-167-C1,AI-167,Use-case inventory,Yes,Pass,2025-04-19
+AI-167-C2,AI-167,Data lineage review,Yes,Pass,2025-05-20
+AI-167-C3,AI-167,Privacy assessment,Yes,Gap,2025-06-20
+AI-167-C4,AI-167,Security review,Yes,Pass,2025-07-21
+AI-167-C5,AI-167,Human oversight,Yes,Pass,2025-08-21
+AI-167-C6,AI-167,Model monitoring,Yes,Gap,2025-09-21
+AI-168-C1,AI-168,Use-case inventory,Yes,Pass,2025-04-23
+AI-168-C2,AI-168,Data lineage review,Yes,Pass,2025-05-24
+AI-168-C3,AI-168,Privacy assessment,Yes,Pass,2025-06-24
+AI-168-C4,AI-168,Security review,Yes,Pass,2025-07-25
+AI-168-C5,AI-168,Human oversight,Yes,Pass,2025-08-25
+AI-168-C6,AI-168,Model monitoring,Yes,Pass,2025-09-25
+AI-169-C1,AI-169,Use-case inventory,Yes,Pass,2025-04-27
+AI-169-C2,AI-169,Data lineage review,Yes,Pass,2025-05-28
+AI-169-C3,AI-169,Privacy assessment,Yes,Pass,2025-06-28
+AI-169-C4,AI-169,Security review,Yes,Pass,2025-07-29
+AI-169-C5,AI-169,Human oversight,Yes,Pass,2025-08-29
+AI-169-C6,AI-169,Model monitoring,Yes,Pass,2025-09-29
+AI-170-C1,AI-170,Use-case inventory,Yes,Gap,2025-05-01
+AI-170-C2,AI-170,Data lineage review,Yes,Pass,2025-06-01
+AI-170-C3,AI-170,Privacy assessment,Yes,Pass,2025-07-02
+AI-170-C4,AI-170,Security review,Yes,Pass,2025-08-02
+AI-170-C5,AI-170,Human oversight,Yes,Pass,2025-09-02
+AI-170-C6,AI-170,Model monitoring,Yes,Pass,2025-10-03
+AI-171-C1,AI-171,Use-case inventory,Yes,Pass,2025-05-05
+AI-171-C2,AI-171,Data lineage review,Yes,Gap,2025-06-05
+AI-171-C3,AI-171,Privacy assessment,Yes,Pass,2025-07-06
+AI-171-C4,AI-171,Security review,Yes,Pass,2025-08-06
+AI-171-C5,AI-171,Human oversight,Yes,Gap,2025-09-06
+AI-171-C6,AI-171,Model monitoring,Yes,Pass,2025-10-07
+AI-172-C1,AI-172,Use-case inventory,Yes,Pass,2025-05-09
+AI-172-C2,AI-172,Data lineage review,Yes,Pass,2025-06-09
+AI-172-C3,AI-172,Privacy assessment,Yes,Pass,2025-07-10
+AI-172-C4,AI-172,Security review,Yes,Pass,2025-08-10
+AI-172-C5,AI-172,Human oversight,Yes,Pass,2025-09-10
+AI-172-C6,AI-172,Model monitoring,Yes,Gap,2025-10-11
+AI-173-C1,AI-173,Use-case inventory,Yes,Pass,2025-05-13
+AI-173-C2,AI-173,Data lineage review,Yes,Pass,2025-06-13
+AI-173-C3,AI-173,Privacy assessment,Yes,Pass,2025-07-14
+AI-173-C4,AI-173,Security review,Yes,Pass,2025-08-14
+AI-173-C5,AI-173,Human oversight,Yes,Pass,2025-09-14
+AI-173-C6,AI-173,Model monitoring,Yes,Pass,2025-10-15
+AI-174-C1,AI-174,Use-case inventory,Yes,Pass,2025-05-17
+AI-174-C2,AI-174,Data lineage review,Yes,Pass,2025-06-17
+AI-174-C3,AI-174,Privacy assessment,Yes,Pass,2025-07-18
+AI-174-C4,AI-174,Security review,Yes,Pass,2025-08-18
+AI-174-C5,AI-174,Human oversight,Yes,Pass,2025-09-18
+AI-174-C6,AI-174,Model monitoring,Yes,Pass,2025-10-19
+AI-175-C1,AI-175,Use-case inventory,Yes,Gap,2025-05-21
+AI-175-C2,AI-175,Data lineage review,Yes,Pass,2025-06-21
+AI-175-C3,AI-175,Privacy assessment,Yes,Pass,2025-07-22
+AI-175-C4,AI-175,Security review,Yes,Gap,2025-08-22
+AI-175-C5,AI-175,Human oversight,Yes,Pass,2025-09-22
+AI-175-C6,AI-175,Model monitoring,Yes,Pass,2025-10-23
+AI-176-C1,AI-176,Use-case inventory,Yes,Pass,2025-05-25
+AI-176-C2,AI-176,Data lineage review,Yes,Pass,2025-06-25
+AI-176-C3,AI-176,Privacy assessment,Yes,Pass,2025-07-26
+AI-176-C4,AI-176,Security review,Yes,Pass,2025-08-26
+AI-176-C5,AI-176,Human oversight,Yes,Gap,2025-09-26
+AI-176-C6,AI-176,Model monitoring,Yes,Pass,2025-10-27
+AI-177-C1,AI-177,Use-case inventory,Yes,Pass,2025-05-29
+AI-177-C2,AI-177,Data lineage review,Yes,Pass,2025-06-29
+AI-177-C3,AI-177,Privacy assessment,Yes,Pass,2025-07-30
+AI-177-C4,AI-177,Security review,Yes,Pass,2025-08-30
+AI-177-C5,AI-177,Human oversight,Yes,Pass,2025-09-30
+AI-177-C6,AI-177,Model monitoring,Yes,Pass,2025-10-31
+AI-178-C1,AI-178,Use-case inventory,Yes,Pass,2025-06-02
+AI-178-C2,AI-178,Data lineage review,Yes,Pass,2025-07-03
+AI-178-C3,AI-178,Privacy assessment,Yes,Pass,2025-08-03
+AI-178-C4,AI-178,Security review,Yes,Pass,2025-09-03
+AI-178-C5,AI-178,Human oversight,Yes,Pass,2025-10-04
+AI-178-C6,AI-178,Model monitoring,Yes,Pass,2025-11-04
+AI-179-C1,AI-179,Use-case inventory,Yes,Pass,2025-06-06
+AI-179-C2,AI-179,Data lineage review,Yes,Pass,2025-07-07
+AI-179-C3,AI-179,Privacy assessment,Yes,Gap,2025-08-07
+AI-179-C4,AI-179,Security review,Yes,Pass,2025-09-07
+AI-179-C5,AI-179,Human oversight,Yes,Pass,2025-10-08
+AI-179-C6,AI-179,Model monitoring,Yes,Pass,2025-11-08
+AI-180-C1,AI-180,Use-case inventory,Yes,Pass,2025-06-10
+AI-180-C2,AI-180,Data lineage review,Yes,Pass,2025-07-11
+AI-180-C3,AI-180,Privacy assessment,Yes,Pass,2025-08-11
+AI-180-C4,AI-180,Security review,Yes,Gap,2025-09-11
+AI-180-C5,AI-180,Human oversight,Yes,Pass,2025-10-12
+AI-180-C6,AI-180,Model monitoring,Yes,Pass,2025-11-12

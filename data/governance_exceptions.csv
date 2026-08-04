@@ -1,0 +1,421 @@
+exception_id,initiative_id,severity,category,opened_date,age_days,status,owner
+EX-0001,AI-006,Medium,Privacy,2025-01-10,16,Open,Risk
+EX-0002,AI-011,High,Security,2025-01-19,29,Open,Security
+EX-0003,AI-016,Critical,Monitoring,2025-01-28,42,Open,Business Operations
+EX-0004,AI-021,Low,Oversight,2025-02-06,55,Open,Product
+EX-0005,AI-026,Medium,Lineage,2025-02-15,0,Resolved,Data & AI
+EX-0006,AI-031,High,Privacy,2025-02-24,81,Open,Risk
+EX-0007,AI-036,Critical,Security,2025-03-05,94,Open,Security
+EX-0008,AI-041,Low,Monitoring,2025-03-14,13,Open,Business Operations
+EX-0009,AI-046,Medium,Oversight,2025-03-23,26,Open,Product
+EX-0010,AI-051,High,Lineage,2025-04-01,0,Resolved,Data & AI
+EX-0011,AI-056,Critical,Privacy,2025-04-10,52,Open,Risk
+EX-0012,AI-061,Low,Security,2025-04-19,65,Open,Security
+EX-0013,AI-066,Medium,Monitoring,2025-04-28,78,Open,Business Operations
+EX-0014,AI-071,High,Oversight,2025-05-07,91,Open,Product
+EX-0015,AI-076,Critical,Lineage,2025-05-16,0,Resolved,Data & AI
+EX-0016,AI-081,Low,Privacy,2025-05-25,23,Open,Risk
+EX-0017,AI-086,Medium,Security,2025-06-03,36,Open,Security
+EX-0018,AI-091,High,Monitoring,2025-06-12,49,Open,Business Operations
+EX-0019,AI-096,Critical,Oversight,2025-06-21,62,Open,Product
+EX-0020,AI-101,Low,Lineage,2025-06-30,0,Resolved,Data & AI
+EX-0021,AI-106,Medium,Privacy,2025-07-09,88,Open,Risk
+EX-0022,AI-111,High,Security,2025-07-18,7,Open,Security
+EX-0023,AI-116,Critical,Monitoring,2025-07-27,20,Open,Business Operations
+EX-0024,AI-121,Low,Oversight,2025-08-05,33,Open,Product
+EX-0025,AI-126,Medium,Lineage,2025-08-14,0,Resolved,Data & AI
+EX-0026,AI-131,High,Privacy,2025-08-23,59,Open,Risk
+EX-0027,AI-136,Critical,Security,2025-09-01,72,Open,Security
+EX-0028,AI-141,Low,Monitoring,2025-09-10,85,Open,Business Operations
+EX-0029,AI-146,Medium,Oversight,2025-09-19,4,Open,Product
+EX-0030,AI-151,High,Lineage,2025-09-28,0,Resolved,Data & AI
+EX-0031,AI-156,Critical,Privacy,2025-10-07,30,Open,Risk
+EX-0032,AI-161,Low,Security,2025-10-16,43,Open,Security
+EX-0033,AI-166,Medium,Monitoring,2025-10-25,56,Open,Business Operations
+EX-0034,AI-171,High,Oversight,2025-11-03,69,Open,Product
+EX-0035,AI-176,Critical,Lineage,2025-11-12,0,Resolved,Data & AI
+EX-0036,AI-001,Low,Privacy,2025-11-21,95,Open,Risk
+EX-0037,AI-006,Medium,Security,2025-11-30,14,Open,Security
+EX-0038,AI-011,High,Monitoring,2025-12-09,27,Open,Business Operations
+EX-0039,AI-016,Critical,Oversight,2025-12-18,40,Open,Product
+EX-0040,AI-021,Low,Lineage,2025-12-27,0,Resolved,Data & AI
+EX-0041,AI-026,Medium,Privacy,2026-01-05,66,Open,Risk
+EX-0042,AI-031,High,Security,2026-01-14,79,Open,Security
+EX-0043,AI-036,Critical,Monitoring,2026-01-23,92,Open,Business Operations
+EX-0044,AI-041,Low,Oversight,2026-02-01,11,Open,Product
+EX-0045,AI-046,Medium,Lineage,2026-02-10,0,Resolved,Data & AI
+EX-0046,AI-051,High,Privacy,2026-02-19,37,Open,Risk
+EX-0047,AI-056,Critical,Security,2026-02-28,50,Open,Security
+EX-0048,AI-061,Low,Monitoring,2026-03-09,63,Open,Business Operations
+EX-0049,AI-066,Medium,Oversight,2026-03-18,76,Open,Product
+EX-0050,AI-071,High,Lineage,2026-03-27,0,Resolved,Data & AI
+EX-0051,AI-076,Critical,Privacy,2026-04-05,8,Open,Risk
+EX-0052,AI-081,Low,Security,2026-04-14,21,Open,Security
+EX-0053,AI-086,Medium,Monitoring,2026-04-23,34,Open,Business Operations
+EX-0054,AI-091,High,Oversight,2026-05-02,47,Open,Product
+EX-0055,AI-096,Critical,Lineage,2026-05-11,0,Resolved,Data & AI
+EX-0056,AI-101,Low,Privacy,2026-05-20,73,Open,Risk
+EX-0057,AI-106,Medium,Security,2026-05-29,86,Open,Security
+EX-0058,AI-111,High,Monitoring,2026-06-07,5,Open,Business Operations
+EX-0059,AI-116,Critical,Oversight,2026-06-16,18,Open,Product
+EX-0060,AI-121,Low,Lineage,2026-06-25,0,Resolved,Data & AI
+EX-0061,AI-126,Medium,Privacy,2026-07-04,44,Open,Risk
+EX-0062,AI-131,High,Security,2026-07-13,57,Open,Security
+EX-0063,AI-136,Critical,Monitoring,2026-07-22,70,Open,Business Operations
+EX-0064,AI-141,Low,Oversight,2025-01-07,83,Open,Product
+EX-0065,AI-146,Medium,Lineage,2025-01-16,0,Resolved,Data & AI
+EX-0066,AI-151,High,Privacy,2025-01-25,15,Open,Risk
+EX-0067,AI-156,Critical,Security,2025-02-03,28,Open,Security
+EX-0068,AI-161,Low,Monitoring,2025-02-12,41,Open,Business Operations
+EX-0069,AI-166,Medium,Oversight,2025-02-21,54,Open,Product
+EX-0070,AI-171,High,Lineage,2025-03-02,0,Resolved,Data & AI
+EX-0071,AI-176,Critical,Privacy,2025-03-11,80,Open,Risk
+EX-0072,AI-001,Low,Security,2025-03-20,93,Open,Security
+EX-0073,AI-006,Medium,Monitoring,2025-03-29,12,Open,Business Operations
+EX-0074,AI-011,High,Oversight,2025-04-07,25,Open,Product
+EX-0075,AI-016,Critical,Lineage,2025-04-16,0,Resolved,Data & AI
+EX-0076,AI-021,Low,Privacy,2025-04-25,51,Open,Risk
+EX-0077,AI-026,Medium,Security,2025-05-04,64,Open,Security
+EX-0078,AI-031,High,Monitoring,2025-05-13,77,Open,Business Operations
+EX-0079,AI-036,Critical,Oversight,2025-05-22,90,Open,Product
+EX-0080,AI-041,Low,Lineage,2025-05-31,0,Resolved,Data & AI
+EX-0081,AI-046,Medium,Privacy,2025-06-09,22,Open,Risk
+EX-0082,AI-051,High,Security,2025-06-18,35,Open,Security
+EX-0083,AI-056,Critical,Monitoring,2025-06-27,48,Open,Business Operations
+EX-0084,AI-061,Low,Oversight,2025-07-06,61,Open,Product
+EX-0085,AI-066,Medium,Lineage,2025-07-15,0,Resolved,Data & AI
+EX-0086,AI-071,High,Privacy,2025-07-24,87,Open,Risk
+EX-0087,AI-076,Critical,Security,2025-08-02,6,Open,Security
+EX-0088,AI-081,Low,Monitoring,2025-08-11,19,Open,Business Operations
+EX-0089,AI-086,Medium,Oversight,2025-08-20,32,Open,Product
+EX-0090,AI-091,High,Lineage,2025-08-29,0,Resolved,Data & AI
+EX-0091,AI-096,Critical,Privacy,2025-09-07,58,Open,Risk
+EX-0092,AI-101,Low,Security,2025-09-16,71,Open,Security
+EX-0093,AI-106,Medium,Monitoring,2025-09-25,84,Open,Business Operations
+EX-0094,AI-111,High,Oversight,2025-10-04,3,Open,Product
+EX-0095,AI-116,Critical,Lineage,2025-10-13,0,Resolved,Data & AI
+EX-0096,AI-121,Low,Privacy,2025-10-22,29,Open,Risk
+EX-0097,AI-126,Medium,Security,2025-10-31,42,Open,Security
+EX-0098,AI-131,High,Monitoring,2025-11-09,55,Open,Business Operations
+EX-0099,AI-136,Critical,Oversight,2025-11-18,68,Open,Product
+EX-0100,AI-141,Low,Lineage,2025-11-27,0,Resolved,Data & AI
+EX-0101,AI-146,Medium,Privacy,2025-12-06,94,Open,Risk
+EX-0102,AI-151,High,Security,2025-12-15,13,Open,Security
+EX-0103,AI-156,Critical,Monitoring,2025-12-24,26,Open,Business Operations
+EX-0104,AI-161,Low,Oversight,2026-01-02,39,Open,Product
+EX-0105,AI-166,Medium,Lineage,2026-01-11,0,Resolved,Data & AI
+EX-0106,AI-171,High,Privacy,2026-01-20,65,Open,Risk
+EX-0107,AI-176,Critical,Security,2026-01-29,78,Open,Security
+EX-0108,AI-001,Low,Monitoring,2026-02-07,91,Open,Business Operations
+EX-0109,AI-006,Medium,Oversight,2026-02-16,10,Open,Product
+EX-0110,AI-011,High,Lineage,2026-02-25,0,Resolved,Data & AI
+EX-0111,AI-016,Critical,Privacy,2026-03-06,36,Open,Risk
+EX-0112,AI-021,Low,Security,2026-03-15,49,Open,Security
+EX-0113,AI-026,Medium,Monitoring,2026-03-24,62,Open,Business Operations
+EX-0114,AI-031,High,Oversight,2026-04-02,75,Open,Product
+EX-0115,AI-036,Critical,Lineage,2026-04-11,0,Resolved,Data & AI
+EX-0116,AI-041,Low,Privacy,2026-04-20,7,Open,Risk
+EX-0117,AI-046,Medium,Security,2026-04-29,20,Open,Security
+EX-0118,AI-051,High,Monitoring,2026-05-08,33,Open,Business Operations
+EX-0119,AI-056,Critical,Oversight,2026-05-17,46,Open,Product
+EX-0120,AI-061,Low,Lineage,2026-05-26,0,Resolved,Data & AI
+EX-0121,AI-066,Medium,Privacy,2026-06-04,72,Open,Risk
+EX-0122,AI-071,High,Security,2026-06-13,85,Open,Security
+EX-0123,AI-076,Critical,Monitoring,2026-06-22,4,Open,Business Operations
+EX-0124,AI-081,Low,Oversight,2026-07-01,17,Open,Product
+EX-0125,AI-086,Medium,Lineage,2026-07-10,0,Resolved,Data & AI
+EX-0126,AI-091,High,Privacy,2026-07-19,43,Open,Risk
+EX-0127,AI-096,Critical,Security,2025-01-04,56,Open,Security
+EX-0128,AI-101,Low,Monitoring,2025-01-13,69,Open,Business Operations
+EX-0129,AI-106,Medium,Oversight,2025-01-22,82,Open,Product
+EX-0130,AI-111,High,Lineage,2025-01-31,0,Resolved,Data & AI
+EX-0131,AI-116,Critical,Privacy,2025-02-09,14,Open,Risk
+EX-0132,AI-121,Low,Security,2025-02-18,27,Open,Security
+EX-0133,AI-126,Medium,Monitoring,2025-02-27,40,Open,Business Operations
+EX-0134,AI-131,High,Oversight,2025-03-08,53,Open,Product
+EX-0135,AI-136,Critical,Lineage,2025-03-17,0,Resolved,Data & AI
+EX-0136,AI-141,Low,Privacy,2025-03-26,79,Open,Risk
+EX-0137,AI-146,Medium,Security,2025-04-04,92,Open,Security
+EX-0138,AI-151,High,Monitoring,2025-04-13,11,Open,Business Operations
+EX-0139,AI-156,Critical,Oversight,2025-04-22,24,Open,Product
+EX-0140,AI-161,Low,Lineage,2025-05-01,0,Resolved,Data & AI
+EX-0141,AI-166,Medium,Privacy,2025-05-10,50,Open,Risk
+EX-0142,AI-171,High,Security,2025-05-19,63,Open,Security
+EX-0143,AI-176,Critical,Monitoring,2025-05-28,76,Open,Business Operations
+EX-0144,AI-001,Low,Oversight,2025-06-06,89,Open,Product
+EX-0145,AI-006,Medium,Lineage,2025-06-15,0,Resolved,Data & AI
+EX-0146,AI-011,High,Privacy,2025-06-24,21,Open,Risk
+EX-0147,AI-016,Critical,Security,2025-07-03,34,Open,Security
+EX-0148,AI-021,Low,Monitoring,2025-07-12,47,Open,Business Operations
+EX-0149,AI-026,Medium,Oversight,2025-07-21,60,Open,Product
+EX-0150,AI-031,High,Lineage,2025-07-30,0,Resolved,Data & AI
+EX-0151,AI-036,Critical,Privacy,2025-08-08,86,Open,Risk
+EX-0152,AI-041,Low,Security,2025-08-17,5,Open,Security
+EX-0153,AI-046,Medium,Monitoring,2025-08-26,18,Open,Business Operations
+EX-0154,AI-051,High,Oversight,2025-09-04,31,Open,Product
+EX-0155,AI-056,Critical,Lineage,2025-09-13,0,Resolved,Data & AI
+EX-0156,AI-061,Low,Privacy,2025-09-22,57,Open,Risk
+EX-0157,AI-066,Medium,Security,2025-10-01,70,Open,Security
+EX-0158,AI-071,High,Monitoring,2025-10-10,83,Open,Business Operations
+EX-0159,AI-076,Critical,Oversight,2025-10-19,96,Open,Product
+EX-0160,AI-081,Low,Lineage,2025-10-28,0,Resolved,Data & AI
+EX-0161,AI-086,Medium,Privacy,2025-11-06,28,Open,Risk
+EX-0162,AI-091,High,Security,2025-11-15,41,Open,Security
+EX-0163,AI-096,Critical,Monitoring,2025-11-24,54,Open,Business Operations
+EX-0164,AI-101,Low,Oversight,2025-12-03,67,Open,Product
+EX-0165,AI-106,Medium,Lineage,2025-12-12,0,Resolved,Data & AI
+EX-0166,AI-111,High,Privacy,2025-12-21,93,Open,Risk
+EX-0167,AI-116,Critical,Security,2025-12-30,12,Open,Security
+EX-0168,AI-121,Low,Monitoring,2026-01-08,25,Open,Business Operations
+EX-0169,AI-126,Medium,Oversight,2026-01-17,38,Open,Product
+EX-0170,AI-131,High,Lineage,2026-01-26,0,Resolved,Data & AI
+EX-0171,AI-136,Critical,Privacy,2026-02-04,64,Open,Risk
+EX-0172,AI-141,Low,Security,2026-02-13,77,Open,Security
+EX-0173,AI-146,Medium,Monitoring,2026-02-22,90,Open,Business Operations
+EX-0174,AI-151,High,Oversight,2026-03-03,9,Open,Product
+EX-0175,AI-156,Critical,Lineage,2026-03-12,0,Resolved,Data & AI
+EX-0176,AI-161,Low,Privacy,2026-03-21,35,Open,Risk
+EX-0177,AI-166,Medium,Security,2026-03-30,48,Open,Security
+EX-0178,AI-171,High,Monitoring,2026-04-08,61,Open,Business Operations
+EX-0179,AI-176,Critical,Oversight,2026-04-17,74,Open,Product
+EX-0180,AI-001,Low,Lineage,2026-04-26,0,Resolved,Data & AI
+EX-0181,AI-006,Medium,Privacy,2026-05-05,6,Open,Risk
+EX-0182,AI-011,High,Security,2026-05-14,19,Open,Security
+EX-0183,AI-016,Critical,Monitoring,2026-05-23,32,Open,Business Operations
+EX-0184,AI-021,Low,Oversight,2026-06-01,45,Open,Product
+EX-0185,AI-026,Medium,Lineage,2026-06-10,0,Resolved,Data & AI
+EX-0186,AI-031,High,Privacy,2026-06-19,71,Open,Risk
+EX-0187,AI-036,Critical,Security,2026-06-28,84,Open,Security
+EX-0188,AI-041,Low,Monitoring,2026-07-07,3,Open,Business Operations
+EX-0189,AI-046,Medium,Oversight,2026-07-16,16,Open,Product
+EX-0190,AI-051,High,Lineage,2025-01-01,0,Resolved,Data & AI
+EX-0191,AI-056,Critical,Privacy,2025-01-10,42,Open,Risk
+EX-0192,AI-061,Low,Security,2025-01-19,55,Open,Security
+EX-0193,AI-066,Medium,Monitoring,2025-01-28,68,Open,Business Operations
+EX-0194,AI-071,High,Oversight,2025-02-06,81,Open,Product
+EX-0195,AI-076,Critical,Lineage,2025-02-15,0,Resolved,Data & AI
+EX-0196,AI-081,Low,Privacy,2025-02-24,13,Open,Risk
+EX-0197,AI-086,Medium,Security,2025-03-05,26,Open,Security
+EX-0198,AI-091,High,Monitoring,2025-03-14,39,Open,Business Operations
+EX-0199,AI-096,Critical,Oversight,2025-03-23,52,Open,Product
+EX-0200,AI-101,Low,Lineage,2025-04-01,0,Resolved,Data & AI
+EX-0201,AI-106,Medium,Privacy,2025-04-10,78,Open,Risk
+EX-0202,AI-111,High,Security,2025-04-19,91,Open,Security
+EX-0203,AI-116,Critical,Monitoring,2025-04-28,10,Open,Business Operations
+EX-0204,AI-121,Low,Oversight,2025-05-07,23,Open,Product
+EX-0205,AI-126,Medium,Lineage,2025-05-16,0,Resolved,Data & AI
+EX-0206,AI-131,High,Privacy,2025-05-25,49,Open,Risk
+EX-0207,AI-136,Critical,Security,2025-06-03,62,Open,Security
+EX-0208,AI-141,Low,Monitoring,2025-06-12,75,Open,Business Operations
+EX-0209,AI-146,Medium,Oversight,2025-06-21,88,Open,Product
+EX-0210,AI-151,High,Lineage,2025-06-30,0,Resolved,Data & AI
+EX-0211,AI-156,Critical,Privacy,2025-07-09,20,Open,Risk
+EX-0212,AI-161,Low,Security,2025-07-18,33,Open,Security
+EX-0213,AI-166,Medium,Monitoring,2025-07-27,46,Open,Business Operations
+EX-0214,AI-171,High,Oversight,2025-08-05,59,Open,Product
+EX-0215,AI-176,Critical,Lineage,2025-08-14,0,Resolved,Data & AI
+EX-0216,AI-001,Low,Privacy,2025-08-23,85,Open,Risk
+EX-0217,AI-006,Medium,Security,2025-09-01,4,Open,Security
+EX-0218,AI-011,High,Monitoring,2025-09-10,17,Open,Business Operations
+EX-0219,AI-016,Critical,Oversight,2025-09-19,30,Open,Product
+EX-0220,AI-021,Low,Lineage,2025-09-28,0,Resolved,Data & AI
+EX-0221,AI-026,Medium,Privacy,2025-10-07,56,Open,Risk
+EX-0222,AI-031,High,Security,2025-10-16,69,Open,Security
+EX-0223,AI-036,Critical,Monitoring,2025-10-25,82,Open,Business Operations
+EX-0224,AI-041,Low,Oversight,2025-11-03,95,Open,Product
+EX-0225,AI-046,Medium,Lineage,2025-11-12,0,Resolved,Data & AI
+EX-0226,AI-051,High,Privacy,2025-11-21,27,Open,Risk
+EX-0227,AI-056,Critical,Security,2025-11-30,40,Open,Security
+EX-0228,AI-061,Low,Monitoring,2025-12-09,53,Open,Business Operations
+EX-0229,AI-066,Medium,Oversight,2025-12-18,66,Open,Product
+EX-0230,AI-071,High,Lineage,2025-12-27,0,Resolved,Data & AI
+EX-0231,AI-076,Critical,Privacy,2026-01-05,92,Open,Risk
+EX-0232,AI-081,Low,Security,2026-01-14,11,Open,Security
+EX-0233,AI-086,Medium,Monitoring,2026-01-23,24,Open,Business Operations
+EX-0234,AI-091,High,Oversight,2026-02-01,37,Open,Product
+EX-0235,AI-096,Critical,Lineage,2026-02-10,0,Resolved,Data & AI
+EX-0236,AI-101,Low,Privacy,2026-02-19,63,Open,Risk
+EX-0237,AI-106,Medium,Security,2026-02-28,76,Open,Security
+EX-0238,AI-111,High,Monitoring,2026-03-09,89,Open,Business Operations
+EX-0239,AI-116,Critical,Oversight,2026-03-18,8,Open,Product
+EX-0240,AI-121,Low,Lineage,2026-03-27,0,Resolved,Data & AI
+EX-0241,AI-126,Medium,Privacy,2026-04-05,34,Open,Risk
+EX-0242,AI-131,High,Security,2026-04-14,47,Open,Security
+EX-0243,AI-136,Critical,Monitoring,2026-04-23,60,Open,Business Operations
+EX-0244,AI-141,Low,Oversight,2026-05-02,73,Open,Product
+EX-0245,AI-146,Medium,Lineage,2026-05-11,0,Resolved,Data & AI
+EX-0246,AI-151,High,Privacy,2026-05-20,5,Open,Risk
+EX-0247,AI-156,Critical,Security,2026-05-29,18,Open,Security
+EX-0248,AI-161,Low,Monitoring,2026-06-07,31,Open,Business Operations
+EX-0249,AI-166,Medium,Oversight,2026-06-16,44,Open,Product
+EX-0250,AI-171,High,Lineage,2026-06-25,0,Resolved,Data & AI
+EX-0251,AI-176,Critical,Privacy,2026-07-04,70,Open,Risk
+EX-0252,AI-001,Low,Security,2026-07-13,83,Open,Security
+EX-0253,AI-006,Medium,Monitoring,2026-07-22,96,Open,Business Operations
+EX-0254,AI-011,High,Oversight,2025-01-07,15,Open,Product
+EX-0255,AI-016,Critical,Lineage,2025-01-16,0,Resolved,Data & AI
+EX-0256,AI-021,Low,Privacy,2025-01-25,41,Open,Risk
+EX-0257,AI-026,Medium,Security,2025-02-03,54,Open,Security
+EX-0258,AI-031,High,Monitoring,2025-02-12,67,Open,Business Operations
+EX-0259,AI-036,Critical,Oversight,2025-02-21,80,Open,Product
+EX-0260,AI-041,Low,Lineage,2025-03-02,0,Resolved,Data & AI
+EX-0261,AI-046,Medium,Privacy,2025-03-11,12,Open,Risk
+EX-0262,AI-051,High,Security,2025-03-20,25,Open,Security
+EX-0263,AI-056,Critical,Monitoring,2025-03-29,38,Open,Business Operations
+EX-0264,AI-061,Low,Oversight,2025-04-07,51,Open,Product
+EX-0265,AI-066,Medium,Lineage,2025-04-16,0,Resolved,Data & AI
+EX-0266,AI-071,High,Privacy,2025-04-25,77,Open,Risk
+EX-0267,AI-076,Critical,Security,2025-05-04,90,Open,Security
+EX-0268,AI-081,Low,Monitoring,2025-05-13,9,Open,Business Operations
+EX-0269,AI-086,Medium,Oversight,2025-05-22,22,Open,Product
+EX-0270,AI-091,High,Lineage,2025-05-31,0,Resolved,Data & AI
+EX-0271,AI-096,Critical,Privacy,2025-06-09,48,Open,Risk
+EX-0272,AI-101,Low,Security,2025-06-18,61,Open,Security
+EX-0273,AI-106,Medium,Monitoring,2025-06-27,74,Open,Business Operations
+EX-0274,AI-111,High,Oversight,2025-07-06,87,Open,Product
+EX-0275,AI-116,Critical,Lineage,2025-07-15,0,Resolved,Data & AI
+EX-0276,AI-121,Low,Privacy,2025-07-24,19,Open,Risk
+EX-0277,AI-126,Medium,Security,2025-08-02,32,Open,Security
+EX-0278,AI-131,High,Monitoring,2025-08-11,45,Open,Business Operations
+EX-0279,AI-136,Critical,Oversight,2025-08-20,58,Open,Product
+EX-0280,AI-141,Low,Lineage,2025-08-29,0,Resolved,Data & AI
+EX-0281,AI-146,Medium,Privacy,2025-09-07,84,Open,Risk
+EX-0282,AI-151,High,Security,2025-09-16,3,Open,Security
+EX-0283,AI-156,Critical,Monitoring,2025-09-25,16,Open,Business Operations
+EX-0284,AI-161,Low,Oversight,2025-10-04,29,Open,Product
+EX-0285,AI-166,Medium,Lineage,2025-10-13,0,Resolved,Data & AI
+EX-0286,AI-171,High,Privacy,2025-10-22,55,Open,Risk
+EX-0287,AI-176,Critical,Security,2025-10-31,68,Open,Security
+EX-0288,AI-001,Low,Monitoring,2025-11-09,81,Open,Business Operations
+EX-0289,AI-006,Medium,Oversight,2025-11-18,94,Open,Product
+EX-0290,AI-011,High,Lineage,2025-11-27,0,Resolved,Data & AI
+EX-0291,AI-016,Critical,Privacy,2025-12-06,26,Open,Risk
+EX-0292,AI-021,Low,Security,2025-12-15,39,Open,Security
+EX-0293,AI-026,Medium,Monitoring,2025-12-24,52,Open,Business Operations
+EX-0294,AI-031,High,Oversight,2026-01-02,65,Open,Product
+EX-0295,AI-036,Critical,Lineage,2026-01-11,0,Resolved,Data & AI
+EX-0296,AI-041,Low,Privacy,2026-01-20,91,Open,Risk
+EX-0297,AI-046,Medium,Security,2026-01-29,10,Open,Security
+EX-0298,AI-051,High,Monitoring,2026-02-07,23,Open,Business Operations
+EX-0299,AI-056,Critical,Oversight,2026-02-16,36,Open,Product
+EX-0300,AI-061,Low,Lineage,2026-02-25,0,Resolved,Data & AI
+EX-0301,AI-066,Medium,Privacy,2026-03-06,62,Open,Risk
+EX-0302,AI-071,High,Security,2026-03-15,75,Open,Security
+EX-0303,AI-076,Critical,Monitoring,2026-03-24,88,Open,Business Operations
+EX-0304,AI-081,Low,Oversight,2026-04-02,7,Open,Product
+EX-0305,AI-086,Medium,Lineage,2026-04-11,0,Resolved,Data & AI
+EX-0306,AI-091,High,Privacy,2026-04-20,33,Open,Risk
+EX-0307,AI-096,Critical,Security,2026-04-29,46,Open,Security
+EX-0308,AI-101,Low,Monitoring,2026-05-08,59,Open,Business Operations
+EX-0309,AI-106,Medium,Oversight,2026-05-17,72,Open,Product
+EX-0310,AI-111,High,Lineage,2026-05-26,0,Resolved,Data & AI
+EX-0311,AI-116,Critical,Privacy,2026-06-04,4,Open,Risk
+EX-0312,AI-121,Low,Security,2026-06-13,17,Open,Security
+EX-0313,AI-126,Medium,Monitoring,2026-06-22,30,Open,Business Operations
+EX-0314,AI-131,High,Oversight,2026-07-01,43,Open,Product
+EX-0315,AI-136,Critical,Lineage,2026-07-10,0,Resolved,Data & AI
+EX-0316,AI-141,Low,Privacy,2026-07-19,69,Open,Risk
+EX-0317,AI-146,Medium,Security,2025-01-04,82,Open,Security
+EX-0318,AI-151,High,Monitoring,2025-01-13,95,Open,Business Operations
+EX-0319,AI-156,Critical,Oversight,2025-01-22,14,Open,Product
+EX-0320,AI-161,Low,Lineage,2025-01-31,0,Resolved,Data & AI
+EX-0321,AI-166,Medium,Privacy,2025-02-09,40,Open,Risk
+EX-0322,AI-171,High,Security,2025-02-18,53,Open,Security
+EX-0323,AI-176,Critical,Monitoring,2025-02-27,66,Open,Business Operations
+EX-0324,AI-001,Low,Oversight,2025-03-08,79,Open,Product
+EX-0325,AI-006,Medium,Lineage,2025-03-17,0,Resolved,Data & AI
+EX-0326,AI-011,High,Privacy,2025-03-26,11,Open,Risk
+EX-0327,AI-016,Critical,Security,2025-04-04,24,Open,Security
+EX-0328,AI-021,Low,Monitoring,2025-04-13,37,Open,Business Operations
+EX-0329,AI-026,Medium,Oversight,2025-04-22,50,Open,Product
+EX-0330,AI-031,High,Lineage,2025-05-01,0,Resolved,Data & AI
+EX-0331,AI-036,Critical,Privacy,2025-05-10,76,Open,Risk
+EX-0332,AI-041,Low,Security,2025-05-19,89,Open,Security
+EX-0333,AI-046,Medium,Monitoring,2025-05-28,8,Open,Business Operations
+EX-0334,AI-051,High,Oversight,2025-06-06,21,Open,Product
+EX-0335,AI-056,Critical,Lineage,2025-06-15,0,Resolved,Data & AI
+EX-0336,AI-061,Low,Privacy,2025-06-24,47,Open,Risk
+EX-0337,AI-066,Medium,Security,2025-07-03,60,Open,Security
+EX-0338,AI-071,High,Monitoring,2025-07-12,73,Open,Business Operations
+EX-0339,AI-076,Critical,Oversight,2025-07-21,86,Open,Product
+EX-0340,AI-081,Low,Lineage,2025-07-30,0,Resolved,Data & AI
+EX-0341,AI-086,Medium,Privacy,2025-08-08,18,Open,Risk
+EX-0342,AI-091,High,Security,2025-08-17,31,Open,Security
+EX-0343,AI-096,Critical,Monitoring,2025-08-26,44,Open,Business Operations
+EX-0344,AI-101,Low,Oversight,2025-09-04,57,Open,Product
+EX-0345,AI-106,Medium,Lineage,2025-09-13,0,Resolved,Data & AI
+EX-0346,AI-111,High,Privacy,2025-09-22,83,Open,Risk
+EX-0347,AI-116,Critical,Security,2025-10-01,96,Open,Security
+EX-0348,AI-121,Low,Monitoring,2025-10-10,15,Open,Business Operations
+EX-0349,AI-126,Medium,Oversight,2025-10-19,28,Open,Product
+EX-0350,AI-131,High,Lineage,2025-10-28,0,Resolved,Data & AI
+EX-0351,AI-136,Critical,Privacy,2025-11-06,54,Open,Risk
+EX-0352,AI-141,Low,Security,2025-11-15,67,Open,Security
+EX-0353,AI-146,Medium,Monitoring,2025-11-24,80,Open,Business Operations
+EX-0354,AI-151,High,Oversight,2025-12-03,93,Open,Product
+EX-0355,AI-156,Critical,Lineage,2025-12-12,0,Resolved,Data & AI
+EX-0356,AI-161,Low,Privacy,2025-12-21,25,Open,Risk
+EX-0357,AI-166,Medium,Security,2025-12-30,38,Open,Security
+EX-0358,AI-171,High,Monitoring,2026-01-08,51,Open,Business Operations
+EX-0359,AI-176,Critical,Oversight,2026-01-17,64,Open,Product
+EX-0360,AI-001,Low,Lineage,2026-01-26,0,Resolved,Data & AI
+EX-0361,AI-006,Medium,Privacy,2026-02-04,90,Open,Risk
+EX-0362,AI-011,High,Security,2026-02-13,9,Open,Security
+EX-0363,AI-016,Critical,Monitoring,2026-02-22,22,Open,Business Operations
+EX-0364,AI-021,Low,Oversight,2026-03-03,35,Open,Product
+EX-0365,AI-026,Medium,Lineage,2026-03-12,0,Resolved,Data & AI
+EX-0366,AI-031,High,Privacy,2026-03-21,61,Open,Risk
+EX-0367,AI-036,Critical,Security,2026-03-30,74,Open,Security
+EX-0368,AI-041,Low,Monitoring,2026-04-08,87,Open,Business Operations
+EX-0369,AI-046,Medium,Oversight,2026-04-17,6,Open,Product
+EX-0370,AI-051,High,Lineage,2026-04-26,0,Resolved,Data & AI
+EX-0371,AI-056,Critical,Privacy,2026-05-05,32,Open,Risk
+EX-0372,AI-061,Low,Security,2026-05-14,45,Open,Security
+EX-0373,AI-066,Medium,Monitoring,2026-05-23,58,Open,Business Operations
+EX-0374,AI-071,High,Oversight,2026-06-01,71,Open,Product
+EX-0375,AI-076,Critical,Lineage,2026-06-10,0,Resolved,Data & AI
+EX-0376,AI-081,Low,Privacy,2026-06-19,3,Open,Risk
+EX-0377,AI-086,Medium,Security,2026-06-28,16,Open,Security
+EX-0378,AI-091,High,Monitoring,2026-07-07,29,Open,Business Operations
+EX-0379,AI-096,Critical,Oversight,2026-07-16,42,Open,Product
+EX-0380,AI-101,Low,Lineage,2025-01-01,0,Resolved,Data & AI
+EX-0381,AI-106,Medium,Privacy,2025-01-10,68,Open,Risk
+EX-0382,AI-111,High,Security,2025-01-19,81,Open,Security
+EX-0383,AI-116,Critical,Monitoring,2025-01-28,94,Open,Business Operations
+EX-0384,AI-121,Low,Oversight,2025-02-06,13,Open,Product
+EX-0385,AI-126,Medium,Lineage,2025-02-15,0,Resolved,Data & AI
+EX-0386,AI-131,High,Privacy,2025-02-24,39,Open,Risk
+EX-0387,AI-136,Critical,Security,2025-03-05,52,Open,Security
+EX-0388,AI-141,Low,Monitoring,2025-03-14,65,Open,Business Operations
+EX-0389,AI-146,Medium,Oversight,2025-03-23,78,Open,Product
+EX-0390,AI-151,High,Lineage,2025-04-01,0,Resolved,Data & AI
+EX-0391,AI-156,Critical,Privacy,2025-04-10,10,Open,Risk
+EX-0392,AI-161,Low,Security,2025-04-19,23,Open,Security
+EX-0393,AI-166,Medium,Monitoring,2025-04-28,36,Open,Business Operations
+EX-0394,AI-171,High,Oversight,2025-05-07,49,Open,Product
+EX-0395,AI-176,Critical,Lineage,2025-05-16,0,Resolved,Data & AI
+EX-0396,AI-001,Low,Privacy,2025-05-25,75,Open,Risk
+EX-0397,AI-006,Medium,Security,2025-06-03,88,Open,Security
+EX-0398,AI-011,High,Monitoring,2025-06-12,7,Open,Business Operations
+EX-0399,AI-016,Critical,Oversight,2025-06-21,20,Open,Product
+EX-0400,AI-021,Low,Lineage,2025-06-30,0,Resolved,Data & AI
+EX-0401,AI-026,Medium,Privacy,2025-07-09,46,Open,Risk
+EX-0402,AI-031,High,Security,2025-07-18,59,Open,Security
+EX-0403,AI-036,Critical,Monitoring,2025-07-27,72,Open,Business Operations
+EX-0404,AI-041,Low,Oversight,2025-08-05,85,Open,Product
+EX-0405,AI-046,Medium,Lineage,2025-08-14,0,Resolved,Data & AI
+EX-0406,AI-051,High,Privacy,2025-08-23,17,Open,Risk
+EX-0407,AI-056,Critical,Security,2025-09-01,30,Open,Security
+EX-0408,AI-061,Low,Monitoring,2025-09-10,43,Open,Business Operations
+EX-0409,AI-066,Medium,Oversight,2025-09-19,56,Open,Product
+EX-0410,AI-071,High,Lineage,2025-09-28,0,Resolved,Data & AI
+EX-0411,AI-076,Critical,Privacy,2025-10-07,82,Open,Risk
+EX-0412,AI-081,Low,Security,2025-10-16,95,Open,Security
+EX-0413,AI-086,Medium,Monitoring,2025-10-25,14,Open,Business Operations
+EX-0414,AI-091,High,Oversight,2025-11-03,27,Open,Product
+EX-0415,AI-096,Critical,Lineage,2025-11-12,0,Resolved,Data & AI
+EX-0416,AI-101,Low,Privacy,2025-11-21,53,Open,Risk
+EX-0417,AI-106,Medium,Security,2025-11-30,66,Open,Security
+EX-0418,AI-111,High,Monitoring,2025-12-09,79,Open,Business Operations
+EX-0419,AI-116,Critical,Oversight,2025-12-18,92,Open,Product
+EX-0420,AI-121,Low,Lineage,2025-12-27,0,Resolved,Data & AI

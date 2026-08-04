@@ -1,0 +1,181 @@
+initiative_id,business_unit,use_case,lifecycle,owner,launch_date,estimated_annual_value,regulated_data
+AI-001,Collaboration,Support copilot,Scaled,Risk,2025-01-12,82391,No
+AI-002,Security,Forecasting,Pilot,Security,2025-01-23,99782,No
+AI-003,Networking,Document intelligence,Pilot,Business Operations,2025-02-03,117173,No
+AI-004,Customer Experience,Workflow automation,Pilot,Product,2025-02-14,134564,Yes
+AI-005,Finance,Knowledge assistant,Discovery,Data & AI,2025-02-25,151955,No
+AI-006,Operations,Support copilot,Discovery,Risk,2025-03-08,169346,No
+AI-007,Collaboration,Forecasting,Scaled,Security,2025-03-19,186737,No
+AI-008,Security,Document intelligence,Scaled,Business Operations,2025-03-30,204128,Yes
+AI-009,Networking,Workflow automation,Pilot,Product,2025-04-10,221519,No
+AI-010,Customer Experience,Knowledge assistant,Pilot,Data & AI,2025-04-21,238910,No
+AI-011,Finance,Support copilot,Pilot,Risk,2025-05-02,256301,No
+AI-012,Operations,Forecasting,Discovery,Security,2025-05-13,273692,Yes
+AI-013,Collaboration,Document intelligence,Discovery,Business Operations,2025-05-24,291083,No
+AI-014,Security,Workflow automation,Scaled,Product,2025-06-04,308474,No
+AI-015,Networking,Knowledge assistant,Scaled,Data & AI,2025-06-15,325865,No
+AI-016,Customer Experience,Support copilot,Pilot,Risk,2025-06-26,343256,Yes
+AI-017,Finance,Forecasting,Pilot,Security,2025-07-07,360647,No
+AI-018,Operations,Document intelligence,Pilot,Business Operations,2025-07-18,378038,No
+AI-019,Collaboration,Workflow automation,Discovery,Product,2025-07-29,395429,No
+AI-020,Security,Knowledge assistant,Discovery,Data & AI,2025-08-09,412820,Yes
+AI-021,Networking,Support copilot,Scaled,Risk,2025-08-20,430211,No
+AI-022,Customer Experience,Forecasting,Scaled,Security,2025-08-31,447602,No
+AI-023,Finance,Document intelligence,Pilot,Business Operations,2025-09-11,464993,No
+AI-024,Operations,Workflow automation,Pilot,Product,2025-09-22,482384,Yes
+AI-025,Collaboration,Knowledge assistant,Pilot,Data & AI,2025-10-03,499775,No
+AI-026,Security,Support copilot,Discovery,Risk,2025-10-14,517166,No
+AI-027,Networking,Forecasting,Discovery,Security,2025-10-25,534557,No
+AI-028,Customer Experience,Document intelligence,Scaled,Business Operations,2025-11-05,551948,Yes
+AI-029,Finance,Workflow automation,Scaled,Product,2025-11-16,569339,No
+AI-030,Operations,Knowledge assistant,Pilot,Data & AI,2025-11-27,586730,No
+AI-031,Collaboration,Support copilot,Pilot,Risk,2025-12-08,604121,No
+AI-032,Security,Forecasting,Pilot,Security,2025-12-19,621512,Yes
+AI-033,Networking,Document intelligence,Discovery,Business Operations,2025-12-30,638903,No
+AI-034,Customer Experience,Workflow automation,Discovery,Product,2026-01-10,656294,No
+AI-035,Finance,Knowledge assistant,Scaled,Data & AI,2026-01-21,673685,No
+AI-036,Operations,Support copilot,Scaled,Risk,2026-02-01,691076,Yes
+AI-037,Collaboration,Forecasting,Pilot,Security,2026-02-12,708467,No
+AI-038,Security,Document intelligence,Pilot,Business Operations,2026-02-23,725858,No
+AI-039,Networking,Workflow automation,Pilot,Product,2026-03-06,743249,No
+AI-040,Customer Experience,Knowledge assistant,Discovery,Data & AI,2026-03-17,760640,Yes
+AI-041,Finance,Support copilot,Discovery,Risk,2026-03-28,778031,No
+AI-042,Operations,Forecasting,Scaled,Security,2026-04-08,795422,No
+AI-043,Collaboration,Document intelligence,Scaled,Business Operations,2026-04-19,812813,No
+AI-044,Security,Workflow automation,Pilot,Product,2026-04-30,830204,Yes
+AI-045,Networking,Knowledge assistant,Pilot,Data & AI,2026-05-11,847595,No
+AI-046,Customer Experience,Support copilot,Pilot,Risk,2026-05-22,864986,No
+AI-047,Finance,Forecasting,Discovery,Security,2026-06-02,82377,No
+AI-048,Operations,Document intelligence,Discovery,Business Operations,2026-06-13,99768,Yes
+AI-049,Collaboration,Workflow automation,Scaled,Product,2025-01-10,117159,No
+AI-050,Security,Knowledge assistant,Scaled,Data & AI,2025-01-21,134550,No
+AI-051,Networking,Support copilot,Pilot,Risk,2025-02-01,151941,No
+AI-052,Customer Experience,Forecasting,Pilot,Security,2025-02-12,169332,Yes
+AI-053,Finance,Document intelligence,Pilot,Business Operations,2025-02-23,186723,No
+AI-054,Operations,Workflow automation,Discovery,Product,2025-03-06,204114,No
+AI-055,Collaboration,Knowledge assistant,Discovery,Data & AI,2025-03-17,221505,No
+AI-056,Security,Support copilot,Scaled,Risk,2025-03-28,238896,Yes
+AI-057,Networking,Forecasting,Scaled,Security,2025-04-08,256287,No
+AI-058,Customer Experience,Document intelligence,Pilot,Business Operations,2025-04-19,273678,No
+AI-059,Finance,Workflow automation,Pilot,Product,2025-04-30,291069,No
+AI-060,Operations,Knowledge assistant,Pilot,Data & AI,2025-05-11,308460,Yes
+AI-061,Collaboration,Support copilot,Discovery,Risk,2025-05-22,325851,No
+AI-062,Security,Forecasting,Discovery,Security,2025-06-02,343242,No
+AI-063,Networking,Document intelligence,Scaled,Business Operations,2025-06-13,360633,No
+AI-064,Customer Experience,Workflow automation,Scaled,Product,2025-06-24,378024,Yes
+AI-065,Finance,Knowledge assistant,Pilot,Data & AI,2025-07-05,395415,No
+AI-066,Operations,Support copilot,Pilot,Risk,2025-07-16,412806,No
+AI-067,Collaboration,Forecasting,Pilot,Security,2025-07-27,430197,No
+AI-068,Security,Document intelligence,Discovery,Business Operations,2025-08-07,447588,Yes
+AI-069,Networking,Workflow automation,Discovery,Product,2025-08-18,464979,No
+AI-070,Customer Experience,Knowledge assistant,Scaled,Data & AI,2025-08-29,482370,No
+AI-071,Finance,Support copilot,Scaled,Risk,2025-09-09,499761,No
+AI-072,Operations,Forecasting,Pilot,Security,2025-09-20,517152,Yes
+AI-073,Collaboration,Document intelligence,Pilot,Business Operations,2025-10-01,534543,No
+AI-074,Security,Workflow automation,Pilot,Product,2025-10-12,551934,No
+AI-075,Networking,Knowledge assistant,Discovery,Data & AI,2025-10-23,569325,No
+AI-076,Customer Experience,Support copilot,Discovery,Risk,2025-11-03,586716,Yes
+AI-077,Finance,Forecasting,Scaled,Security,2025-11-14,604107,No
+AI-078,Operations,Document intelligence,Scaled,Business Operations,2025-11-25,621498,No
+AI-079,Collaboration,Workflow automation,Pilot,Product,2025-12-06,638889,No
+AI-080,Security,Knowledge assistant,Pilot,Data & AI,2025-12-17,656280,Yes
+AI-081,Networking,Support copilot,Pilot,Risk,2025-12-28,673671,No
+AI-082,Customer Experience,Forecasting,Discovery,Security,2026-01-08,691062,No
+AI-083,Finance,Document intelligence,Discovery,Business Operations,2026-01-19,708453,No
+AI-084,Operations,Workflow automation,Scaled,Product,2026-01-30,725844,Yes
+AI-085,Collaboration,Knowledge assistant,Scaled,Data & AI,2026-02-10,743235,No
+AI-086,Security,Support copilot,Pilot,Risk,2026-02-21,760626,No
+AI-087,Networking,Forecasting,Pilot,Security,2026-03-04,778017,No
+AI-088,Customer Experience,Document intelligence,Pilot,Business Operations,2026-03-15,795408,Yes
+AI-089,Finance,Workflow automation,Discovery,Product,2026-03-26,812799,No
+AI-090,Operations,Knowledge assistant,Discovery,Data & AI,2026-04-06,830190,No
+AI-091,Collaboration,Support copilot,Scaled,Risk,2026-04-17,847581,No
+AI-092,Security,Forecasting,Scaled,Security,2026-04-28,864972,Yes
+AI-093,Networking,Document intelligence,Pilot,Business Operations,2026-05-09,82363,No
+AI-094,Customer Experience,Workflow automation,Pilot,Product,2026-05-20,99754,No
+AI-095,Finance,Knowledge assistant,Pilot,Data & AI,2026-05-31,117145,No
+AI-096,Operations,Support copilot,Discovery,Risk,2026-06-11,134536,Yes
+AI-097,Collaboration,Forecasting,Discovery,Security,2025-01-08,151927,No
+AI-098,Security,Document intelligence,Scaled,Business Operations,2025-01-19,169318,No
+AI-099,Networking,Workflow automation,Scaled,Product,2025-01-30,186709,No
+AI-100,Customer Experience,Knowledge assistant,Pilot,Data & AI,2025-02-10,204100,Yes
+AI-101,Finance,Support copilot,Pilot,Risk,2025-02-21,221491,No
+AI-102,Operations,Forecasting,Pilot,Security,2025-03-04,238882,No
+AI-103,Collaboration,Document intelligence,Discovery,Business Operations,2025-03-15,256273,No
+AI-104,Security,Workflow automation,Discovery,Product,2025-03-26,273664,Yes
+AI-105,Networking,Knowledge assistant,Scaled,Data & AI,2025-04-06,291055,No
+AI-106,Customer Experience,Support copilot,Scaled,Risk,2025-04-17,308446,No
+AI-107,Finance,Forecasting,Pilot,Security,2025-04-28,325837,No
+AI-108,Operations,Document intelligence,Pilot,Business Operations,2025-05-09,343228,Yes
+AI-109,Collaboration,Workflow automation,Pilot,Product,2025-05-20,360619,No
+AI-110,Security,Knowledge assistant,Discovery,Data & AI,2025-05-31,378010,No
+AI-111,Networking,Support copilot,Discovery,Risk,2025-06-11,395401,No
+AI-112,Customer Experience,Forecasting,Scaled,Security,2025-06-22,412792,Yes
+AI-113,Finance,Document intelligence,Scaled,Business Operations,2025-07-03,430183,No
+AI-114,Operations,Workflow automation,Pilot,Product,2025-07-14,447574,No
+AI-115,Collaboration,Knowledge assistant,Pilot,Data & AI,2025-07-25,464965,No
+AI-116,Security,Support copilot,Pilot,Risk,2025-08-05,482356,Yes
+AI-117,Networking,Forecasting,Discovery,Security,2025-08-16,499747,No
+AI-118,Customer Experience,Document intelligence,Discovery,Business Operations,2025-08-27,517138,No
+AI-119,Finance,Workflow automation,Scaled,Product,2025-09-07,534529,No
+AI-120,Operations,Knowledge assistant,Scaled,Data & AI,2025-09-18,551920,Yes
+AI-121,Collaboration,Support copilot,Pilot,Risk,2025-09-29,569311,No
+AI-122,Security,Forecasting,Pilot,Security,2025-10-10,586702,No
+AI-123,Networking,Document intelligence,Pilot,Business Operations,2025-10-21,604093,No
+AI-124,Customer Experience,Workflow automation,Discovery,Product,2025-11-01,621484,Yes
+AI-125,Finance,Knowledge assistant,Discovery,Data & AI,2025-11-12,638875,No
+AI-126,Operations,Support copilot,Scaled,Risk,2025-11-23,656266,No
+AI-127,Collaboration,Forecasting,Scaled,Security,2025-12-04,673657,No
+AI-128,Security,Document intelligence,Pilot,Business Operations,2025-12-15,691048,Yes
+AI-129,Networking,Workflow automation,Pilot,Product,2025-12-26,708439,No
+AI-130,Customer Experience,Knowledge assistant,Pilot,Data & AI,2026-01-06,725830,No
+AI-131,Finance,Support copilot,Discovery,Risk,2026-01-17,743221,No
+AI-132,Operations,Forecasting,Discovery,Security,2026-01-28,760612,Yes
+AI-133,Collaboration,Document intelligence,Scaled,Business Operations,2026-02-08,778003,No
+AI-134,Security,Workflow automation,Scaled,Product,2026-02-19,795394,No
+AI-135,Networking,Knowledge assistant,Pilot,Data & AI,2026-03-02,812785,No
+AI-136,Customer Experience,Support copilot,Pilot,Risk,2026-03-13,830176,Yes
+AI-137,Finance,Forecasting,Pilot,Security,2026-03-24,847567,No
+AI-138,Operations,Document intelligence,Discovery,Business Operations,2026-04-04,864958,No
+AI-139,Collaboration,Workflow automation,Discovery,Product,2026-04-15,82349,No
+AI-140,Security,Knowledge assistant,Scaled,Data & AI,2026-04-26,99740,Yes
+AI-141,Networking,Support copilot,Scaled,Risk,2026-05-07,117131,No
+AI-142,Customer Experience,Forecasting,Pilot,Security,2026-05-18,134522,No
+AI-143,Finance,Document intelligence,Pilot,Business Operations,2026-05-29,151913,No
+AI-144,Operations,Workflow automation,Pilot,Product,2026-06-09,169304,Yes
+AI-145,Collaboration,Knowledge assistant,Discovery,Data & AI,2025-01-06,186695,No
+AI-146,Security,Support copilot,Discovery,Risk,2025-01-17,204086,No
+AI-147,Networking,Forecasting,Scaled,Security,2025-01-28,221477,No
+AI-148,Customer Experience,Document intelligence,Scaled,Business Operations,2025-02-08,238868,Yes
+AI-149,Finance,Workflow automation,Pilot,Product,2025-02-19,256259,No
+AI-150,Operations,Knowledge assistant,Pilot,Data & AI,2025-03-02,273650,No
+AI-151,Collaboration,Support copilot,Pilot,Risk,2025-03-13,291041,No
+AI-152,Security,Forecasting,Discovery,Security,2025-03-24,308432,Yes
+AI-153,Networking,Document intelligence,Discovery,Business Operations,2025-04-04,325823,No
+AI-154,Customer Experience,Workflow automation,Scaled,Product,2025-04-15,343214,No
+AI-155,Finance,Knowledge assistant,Scaled,Data & AI,2025-04-26,360605,No
+AI-156,Operations,Support copilot,Pilot,Risk,2025-05-07,377996,Yes
+AI-157,Collaboration,Forecasting,Pilot,Security,2025-05-18,395387,No
+AI-158,Security,Document intelligence,Pilot,Business Operations,2025-05-29,412778,No
+AI-159,Networking,Workflow automation,Discovery,Product,2025-06-09,430169,No
+AI-160,Customer Experience,Knowledge assistant,Discovery,Data & AI,2025-06-20,447560,Yes
+AI-161,Finance,Support copilot,Scaled,Risk,2025-07-01,464951,No
+AI-162,Operations,Forecasting,Scaled,Security,2025-07-12,482342,No
+AI-163,Collaboration,Document intelligence,Pilot,Business Operations,2025-07-23,499733,No
+AI-164,Security,Workflow automation,Pilot,Product,2025-08-03,517124,Yes
+AI-165,Networking,Knowledge assistant,Pilot,Data & AI,2025-08-14,534515,No
+AI-166,Customer Experience,Support copilot,Discovery,Risk,2025-08-25,551906,No
+AI-167,Finance,Forecasting,Discovery,Security,2025-09-05,569297,No
+AI-168,Operations,Document intelligence,Scaled,Business Operations,2025-09-16,586688,Yes
+AI-169,Collaboration,Workflow automation,Scaled,Product,2025-09-27,604079,No
+AI-170,Security,Knowledge assistant,Pilot,Data & AI,2025-10-08,621470,No
+AI-171,Networking,Support copilot,Pilot,Risk,2025-10-19,638861,No
+AI-172,Customer Experience,Forecasting,Pilot,Security,2025-10-30,656252,Yes
+AI-173,Finance,Document intelligence,Discovery,Business Operations,2025-11-10,673643,No
+AI-174,Operations,Workflow automation,Discovery,Product,2025-11-21,691034,No
+AI-175,Collaboration,Knowledge assistant,Scaled,Data & AI,2025-12-02,708425,No
+AI-176,Security,Support copilot,Scaled,Risk,2025-12-13,725816,Yes
+AI-177,Networking,Forecasting,Pilot,Security,2025-12-24,743207,No
+AI-178,Customer Experience,Document intelligence,Pilot,Business Operations,2026-01-04,760598,No
+AI-179,Finance,Workflow automation,Pilot,Product,2026-01-15,777989,No
+AI-180,Operations,Knowledge assistant,Discovery,Data & AI,2026-01-26,795380,Yes
