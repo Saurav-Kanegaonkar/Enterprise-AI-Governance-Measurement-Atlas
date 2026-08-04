@@ -45,8 +45,10 @@ def main():
     adoption=[]
     for i in range(1, 721):
         initiative=f"AI-{1+(i*7)%180:03}"; week=BASE+timedelta(days=(i%52)*7)
+        eligible=100+(i*19)%2600
+        active=min(65+(i*29)%1800, int(eligible*.94))
         adoption.append(dict(record_id=f"AD-{i:04}", initiative_id=initiative, week_start=week.isoformat(),
-          eligible_users=100+(i*19)%2600, active_users=65+(i*29)%1800, workflow_runs=210+(i*41)%10000,
+          eligible_users=eligible, active_users=active, workflow_runs=210+(i*41)%10000,
           business_unit=BU[(i*7)%len(BU)]))
     write("adoption_telemetry.csv", list(adoption[0]), adoption)
     value=[]
