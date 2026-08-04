@@ -16,15 +16,17 @@ HAVING COUNT(*) <> 6;
 -- 3. Open exceptions require a positive age; resolved exceptions must be zero-aged.
 SELECT COUNT(*) AS invalid_exception_age_rows
 FROM governance_exceptions
-WHERE (status = 'Open' AND age_days <= 0)
-   OR (status = 'Resolved' AND age_days <> 0);
+WHERE (status = 'Open' AND CAST(age_days AS INTEGER) <= 0)
+   OR (status = 'Resolved' AND CAST(age_days AS INTEGER) <> 0);
 
 -- 4. Value records must retain nonnegative planned and realized evidence.
 SELECT COUNT(*) AS invalid_value_rows
 FROM value_realization
-WHERE planned_value < 0 OR realized_value < 0;
+WHERE CAST(planned_value AS REAL) < 0 OR CAST(realized_value AS REAL) < 0;
 
 -- 5. Adoption telemetry must not exceed eligible population or be negative.
 SELECT COUNT(*) AS invalid_adoption_rows
 FROM adoption_telemetry
-WHERE active_users < 0 OR eligible_users < 0 OR active_users > eligible_users;
+WHERE CAST(active_users AS INTEGER) < 0
+   OR CAST(eligible_users AS INTEGER) < 0
+   OR CAST(active_users AS INTEGER) > CAST(eligible_users AS INTEGER);
